@@ -1,0 +1,37 @@
+ g. Notice to Information Holders. When information has been approved for exemption by
+the ISCAP, the OCA must notify all known information holders. This may be done through
+issuance of a memorandum or distribution of the declassification guide. DoD Components that
+have ISCAP-approved declassification guides must ensure maximum dissemination to record
+holders of the information. Holders shall re-mark documents in their possession to reflect the
+exemption.
+
+14. DECLASSIFICATION OF INFORMATION MARKED WITH OLD
+DECLASSIFICATION INSTRUCTIONS
+
+ a. In accordance with Reference (f), when information is marked with previously authorized
+exemption categories X-1 through X-8, or with the instructions “OADR” (Originating Agency’s
+Determination Required) or “MR” (Manual Review), including when preceded by “Source
+marked,” use a declassification date of 25 years from the date of the source document or 25 years
+from the current date if the source document date is not available, unless exempted in accordance
+with section 13 of this enclosure.
+
+ b. If imagery subject to E.O. 12951 (Reference (bi)) is marked with the declassification
+instruction “DCI Only” or “DNI Only,” use “25X1, E.O. 12951” as the declassification
+instruction, as specified by the DNI. (Contact the National Geospatial-Intelligence Agency,
+Classification Management (NGA/SISX) for assistance in determining whether specific imagery
+is subject to E.O. 12951.) Otherwise, for documents marked with the declassification
+instructions “DCI Only” or “DNI Only” which do NOT contain information subject to
+Reference (bi), use a declassification date that is 25 years from the date of the source document
+or 25 years from the current date if the source document date is not available.
+
+15. REFERRALS IN THE AUTOMATIC DECLASSIFICATION PROCESS. Referrals are
+required by References (d) and (f) to ensure timely, efficient, and effective processing of reviews
+and to protect classified information from inadvertent disclosure. All referrals contained within
+accessioned records will be processed through the NDC.
+
+ a. Description. The referral process involves identification of information in records
+containing classified information that originated with another DoD Component or Executive
+Branch agency or the disclosure of which would affect the interests or activities of another DoD
+Component or Executive Branch agency and that could reasonably be expected to fall within one
+or more of the exemptions listed in subparagraph 13.b.(1) of this enclosure. Such records are
+

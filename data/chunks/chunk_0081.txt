@@ -1,0 +1,40 @@
+SCI. Classified information concerning or derived from intelligence sources, methods, or
+analytical processes that is required to be handled within formal access control systems
+established by the Director of National Intelligence.
+
+security classification guide. A documentary form of classification guidance issued by an OCA
+that identifies the elements of information regarding a specific subject that must be classified and
+establishes the level and duration of classification for each such element.
+
+security clearance. A determination that a person is eligible in accordance with the standards of
+Reference (s) for access to classified information.
+
+self-inspection. The internal review and evaluation of individual DoD Component activities and
+the DoD Component as a whole with respect to the implementation of the information security
+program established in accordance with References (b), (d) and (f), and this Manual.
+
+senior agency official. An official appointed by the head of a DoD Component to be responsible
+for direction, administration, and oversight of the Component’s information security program, to
+include classification, declassification, safeguarding, and security education and training
+programs, and for the efficient and effective implementation of References (b), (d), (e), and (f)
+and the guidance in this Manual. Where used in reference to authorities pursuant to
+section 5.4(d) of Reference (d), this term applies only to the senior agency officials of the
+Military Departments and of the Department of Defense.
+
+senior intelligence official. The highest ranking military or civilian charged with direct foreign
+intelligence missions, functions, or responsibilities with a department, agency, component, or
+element of an Intelligence Community organization. Responsible for direction, administration,
+and oversight of the organization’s SCI program, to include classification, declassification,
+safeguarding, and security education and training programs for the effective implementation of
+References (b), (j), and (ad) and the guidance in this Manual.
+
+SSO. Individual appointed, in accordance with References (j) and (ad), by the senior intelligence
+official to be responsible for the day-to-day security management, operation, implementation,
+use, and dissemination of SCI within an activity.
+
+tab. A narrow paper sleeve placed around a document or group of documents in such a way that
+it is readily visible.
+
+telecommunications. The preparation, transmission, or communication of information by
+electronic means.
+

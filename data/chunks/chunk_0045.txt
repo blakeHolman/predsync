@@ -1,0 +1,35 @@
+ a. Information that is a product of contractor or individual independent research and
+development (IR&D) or bid and proposal (B&P) efforts, as defined by DoDI 3204.01 (Reference
+(bc)), conducted without prior or current access to classified information associated with the
+specific information in question, may not be classified unless:
+
+ (1) The U.S. Government first acquires a proprietary interest in the information; or,
+
+ (2) The contractor or individual conducting the IR&D or B&P requests that the U.S.
+Government contracting activity place the information under the control of the security
+classification system without relinquishing ownership of the information.
+
+ b. The contractor or individual conducting such an IR&D or B&P effort and believing that
+the information generated may require protection in the interest of national security shall
+safeguard the information and submit it to an appropriate U.S. Government activity for a
+classification determination.
+
+ (1) The U.S. Government activity receiving the request shall issue security classification
+guidance, as appropriate, if the information is to be classified. If the information is not under the
+activity’s classification authority, the activity shall refer the matter to the appropriate
+classification authority and inform the individual or contractor of the referral. The information
+shall be safeguarded until the matter is resolved.
+
+ (2) The U.S. Government activity authorizing classification for the information shall
+verify whether the contractor or individual is cleared and has been authorized to store classified
+information. If not, the U.S. Government activity authorizing classification shall advise whether
+security clearance action should be initiated.
+
+ (3) If the contractor or individual refuses to be processed for the appropriate security
+clearance and the U.S. Government does not acquire a proprietary interest in the information, the
+information may not be classified.
+
+ (4) If the information is not classified, consideration may be given to the need for other
+controls applicable to unclassified information (e.g., export controls). (See Volume 4 of this
+Manual for guidance on CUI.)
+

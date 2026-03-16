@@ -1,0 +1,35 @@
+17. WAIVERS AND EXCEPTIONS. Unless otherwise specified in this Volume, the DoD
+Components must submit requests for information security waivers or exceptions to the
+standards and requirements in this Manual through the chain of command to the USD(I&S),
+Attn: Director, Security Policy and Oversight Division, for approval.
+
+ a. If the waiver or exception involves any of the other security areas (e.g., industrial,
+physical, personnel), it must first be internally coordinated with the applicable security office(s)
+before the waiver or exception request is submitted for endorsement by the senior agency official (SAO).
+This may involve a separate request for waiver or exception based on the requirements of the
+other security policy issuances.
+
+ b. Waivers or exceptions pertaining to foreign government (including NATO) information
+and security arrangements for international programs must only be submitted to and approved by
+the USD(P), who will ensure concurrence by the USD(I&S) if the request involves the any of the
+security disciplines.
+
+ c. The Military Departments will forward requests for waiver or exception through their
+SAOs for endorsement before submitting such requests to the USD(I&S) for approval. DoD
+Components will provide all requests for waiver or exception, including those approved by the
+USD(P), to the USD(I&S) through the Director, Security Policy and Oversight Division. The
+USD(I&S) and USD(P) shall be responsible for promptly notifying the Director, ISOO, of
+approved waivers and exceptions involving References (d) and (f).
+
+ d. Requests for information security waivers and exceptions shall contain sufficient
+information to permit a complete and thorough analysis to be made of the impact of approval on
+national security. Minimally, requests must identify the specific provision(s) of this Manual for
+which the waiver or exception is sought (cite this Manual by volume, enclosure, and paragraph)
+and provide rationale and justification for the request, including negative impacts to cost,
+schedule, mission, or operations; a mission analysis summary to identify vulnerabilities and risk
+management considerations; a summary of proposed mitigation measures to reduce risk; and the
+
+necessary duration for any waivers). A sample template memorandum for requesting waivers and
+exceptions is at the Appendix to this enclosure. Current waivers and exceptions will continue to
+be valid until they are due for renewal.
+

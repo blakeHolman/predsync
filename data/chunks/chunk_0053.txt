@@ -1,0 +1,37 @@
+ a. Recognition of cryptologic information is not always easy since it may concern or reveal
+the processes, techniques, operations, and scope of signals intelligence, which consists of
+communications intelligence, electronic intelligence, and foreign instrumentation signals
+intelligence, or it may concern IA, which includes COMSEC, including the communications
+portion of cover and deception plans. Much cryptologic information is also considered FGI.
+
+ b. NSA/CSS has established special procedures for mandatory review for declassification of
+classified cryptologic information. For questions regarding cryptographic equities or for
+referrals for declassification determination, contact:
+
+ Director, National Security Agency/
+ Chief, Central Security Service
+ ATTN: Declassification Services (DJP5)
+ Fort George G. Meade, MD 20755-6248
+
+8. PERMANENTLY VALUABLE RECORDS
+
+ a. Classified information in records that are scheduled for retention by NARA as
+permanently valuable records when that information is less than 20 years old shall be subject to
+the automatic declassification provisions of section 12 of this enclosure when the information is
+25 years old.
+
+ b. Classified information in records that are scheduled for retention by NARA as
+permanently valuable records when that information is already more than 20 years old shall be
+subject to the automatic declassification provisions of section 12 of this enclosure 5 years from
+the date the records are scheduled.
+
+9. RECORDS DETERMINED NOT TO HAVE PERMANENT HISTORICAL VALUE.
+Classified records determined not to be permanently valuable and not scheduled retention by
+NARA are subject to the automatic declassification provisions of this issuance. The disposition
+(destruction) date of those records in the DoD Component’s Records Control Schedule or
+General Records Schedule approved by NARA shall be used as the declassification date,
+although the duration of classification may be extended if a record has been retained for business
+reasons beyond its scheduled destruction date. If the disposition date extends beyond 25 years,
+an exemption request must be submitted to and approved by the ISCAP in accordance with the
+procedure in section 13 of this enclosure.
+

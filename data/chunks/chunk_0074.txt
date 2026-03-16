@@ -1,0 +1,42 @@
+classifier. An individual who makes a classification determination and applies a security
+classification to information or material. A classifier may be an OCA or a person who
+derivatively assigns a security classification based on a properly classified source or a
+classification guide.
+
+collateral information. All national security information classified Confidential, Secret, or Top
+Secret under the provision of an Executive order for which special systems of compartmentation
+(such as SCI or SAP) are not formally required.
+
+compilation. An aggregation of preexisting items of information.
+
+compromise. An unauthorized disclosure of classified information.
+
+COMSEC. The protection resulting from all measures designed to deny unauthorized persons
+information of value that might be derived from the possession and study of telecommunications
+and to ensure the authenticity of such communications. COMSEC includes cryptosecurity,
+emission security, transmission security, and physical security of COMSEC material and
+information.
+
+confidential source. Any individual or organization that has provided, or that may reasonably be
+expected to provide, information to the United States on matters pertaining to the national
+security with the expectation that the information or relationship, or both, are to be held in
+confidence.
+
+control. The authority of the agency that originates information, or its successor in function, to
+regulate access to the information.
+
+CUI. Unclassified information requiring safeguarding or dissemination controls, pursuant to and
+consistent with applicable law, regulations, and Government-wide policies. Some CUI may also
+be export-controlled or protected by contract. Release or disclosure of CUI to foreign
+governments or international organizations must be in accordance with Reference (z) and other
+policy and procedures established by the USD(P). See Volume 4 of this Manual for further
+information regarding CUI.
+
+date of original classification. The date a document is determined to be classified. For example,
+classification would begin from the date a document is created, not from the date of any security
+classification guide used to authorize classification of that document.
+
+damage to the national security. Harm to the national defense or foreign relations of the United
+States from the unauthorized disclosure of information, taking into consideration such aspects of
+the information as the sensitivity, value, utility, and provenance of that information.
+

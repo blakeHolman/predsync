@@ -1,0 +1,51 @@
+ c. Deciding to downgrade or declassify information. Adhering to security markings on
+information or guidance stated in an appropriate security classification or declassification guide
+is not considered a downgrading or declassification decision.
+
+ d. Deciding challenges to classification or any appeals.
+
+ e. Making foreign disclosure decisions pursuant to Reference (y).
+
+ f. Making public release decisions pursuant to Reference (v).
+
+ g. Committing to expenditure of U.S. Government funds. Guidelines within international or
+host nation agreements or treaties may provide exceptions to this area of security administration.
+
+ h. Conducting investigations of, or determining fault in, security incidents involving U.S.
+Government or contractor personnel.
+
+ i. Giving final approval or executing documents for filing in litigation, if documents assert
+an official position of the Department of Defense, any DoD Component, or any other federal
+agency.
+
+ j. Escorting personnel, except where the foreign national is employed by DoD and the
+foreign national escorts personnel:
+
+ (1) As a specific function of his or her assigned duties.
+
+ (2) Only to areas where U.S. personnel are embedded within locations or facilities that
+are outside the continental United States.
+
+ (3) Only in situations not detrimental to the interests of the DoD or the U.S.
+Government.
+
+ k. Accessing combinations at the entrance and exit doors or security containers that contain
+non-releasable classified information or non-releasable CUI.
+
+ l. Accessing codes or functions associated with the intrusion detection system or master
+codes associated with access control devices.
+
+ m. Accessing IT equipment, such as computers, printers, or fax equipment used to process
+non-releasable classified information or non-releasable CUI.
+
+ n. Constructing or modifying areas where classified information will be processed, unless
+cleared U.S. national civil engineers provide oversight to all new construction and modifications
+of facilities where classified information will be processed.
+
+ o. Accessing SCIFs, except as stated in Volume 2 of Reference (j).
+
+9. CLASSIFICATION AUTHORITY. Except for information subject to section 2011 et seq., of
+title 42, U.S.C. (also known and hereinafter referred to as “The Atomic Energy Act of 1954, as
+amended” (Reference (aq)), Reference (d) and this Manual provide the only authority for
+applying security classification to information within the Department of Defense.
+

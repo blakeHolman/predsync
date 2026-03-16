@@ -1,0 +1,37 @@
+ a. When incorporating, paraphrasing, restating, or generating classified information in a new
+form or document (i.e., derivatively classifying information), it must be identified as classified
+information by marking or similar means. Derivative classification includes classification of
+information based on classification guidance in a security classification guide or other source
+material, but does not include photocopying or otherwise mechanically or electronically
+reproducing classified material.
+
+ b. Within the DoD all cleared personnel, who generate or create material that is to be
+derivatively classified, shall ensure that the derivative classification is accomplished in
+accordance with this enclosure. No specific, individual delegation of authority is required. DoD
+officials who sign or approve derivatively classified documents have principal responsibility for
+the quality of the derivative classification.
+
+ c. All persons performing derivative classification shall receive training, as specified in
+Enclosure 5 of Volume 3 of this Manual, on proper procedures for making classification
+determinations and properly marking derivatively classified documents.
+
+3. RESPONSIBILITIES OF DERIVATIVE CLASSIFIERS. Derivative classifiers shall:
+
+ a. Observe and respect the classification determinations made by OCAs. If derivative
+classifiers believe information to be improperly classified, they shall take the actions required by
+section 22 of this enclosure.
+
+ b. Identify themselves and the classified information by marking it in accordance with
+Volume 2 of this Manual.
+
+ c. Use only authorized sources for classification guidance (e.g., security classification
+guides, memorandums, DoD publications, and other forms of classification guidance issued by
+
+the OCA) and markings on source documents from which the information is extracted for
+guidance on classification of the information in question. The use of memory alone or “general
+rules” about the classification of broad classes of information is prohibited.
+
+ d. Use caution when paraphrasing or restating information extracted from a classified source
+document. Paraphrasing or restating information may change the need for or level of
+classification.
+

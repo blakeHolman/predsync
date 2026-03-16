@@ -1,0 +1,52 @@
+ MEMORANDUM FOR DIRECTOR, SECURITY POLICY AND OVERSIGHT DIVISION,
+ OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE AND
+ SECURITY
+
+SUBJECT: Request for [Organization Name] Waiver [or Exception] (Information Security)
+from DoDM 5200.01 Standard [or Requirement]
+
+ Purpose: The [Title, Organization Name] requests a waiver or exception from
+DoDM 5200.01, [volume, enclosure, paragraph/section], for a [short description of the
+requirement or standard for which the waiver or exception is sought]. [SAO title, Organization,
+Name] has reviewed this request with attachments and concurs with this request.
+
+ Justification: [Brief description of the rationale and justification for the request for
+waiver or exception, to include negative impacts to cost, schedule, mission, or operations.]
+
+ Mission Analysis Summary: A mission analysis that discusses missions and functions
+impacted by this waiver or exception is at TAB A.
+
+ Risk Assessment: The risk management assessment at TAB B identifies vulnerabilities
+and risk management considerations related to this request for waiver or exception.
+
+ Mitigation Measures: The mitigation measures at TAB C describe measures identified
+to reduce risks identified at TAB B. [If there are no mitigation measures, state “None.”] The
+[SAO Title, Organization Title] concurs with this request and the mitigation measures and
+accepts the risk level based on the mitigation measures to be taken.
+
+ Timeframe: This is a temporary waiver request from [start date] through [end date]. or
+This is a permanent exception request.
+
+ The POC for this action is [Name, Title, Organization, Phone number, email address].
+
+ [Signature Block of Component SAO]
+
+Attachments:
+As stated
+ [CLASSIFICATION]
+
+ ENCLOSURE 4
+
+ CLASSIFYING INFORMATION
+
+1. TENTATIVE CLASSIFICATION. Individuals who submit information to OCAs for original
+classification decisions shall provide the OCA the information required by paragraphs 6.a.
+through 6.f. of this enclosure, and may, as necessary, tentatively classify information or
+documents as working papers, pending approval by the OCA. Final classification decisions must
+be made as soon as possible, but not later than 180 days from the initial drafting date of the
+document. Prior to the OCA’s classification decision, such information shall be safeguarded as
+required for the specified level of classification and it shall not be used as a source for derivative
+classification.
+
+2. DERIVATIVE CLASSIFICATION
+

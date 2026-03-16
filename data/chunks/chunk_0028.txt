@@ -1,0 +1,36 @@
+ (1) When collateral Top Secret information is maintained in a sensitive compartmented
+information facility (SCIF) or SAP secure facility, it may be handled in the same manner as SCI
+and SAP materials once necessary receipts have been provided to the organization supplying the
+materials. When collateral Top Secret material is taken out of a SCIF or SAP secure facility it
+shall be reentered into the registry system for accountability.
+
+ (2) Repositories, libraries, or activities that store large volumes of classified documents
+may limit their annual inventory to that which access has been given in the past 12 months, and
+10 percent of the remaining inventory.
+
+ (3) Accountability for Top Secret SCI, SAP, and other special types of classified
+information shall be in accordance with References (j) through (y), and other applicable
+guidance.
+
+ e. Other Security Management Roles
+
+ (1) Assistant Security Manager. In large activities and where circumstances warrant,
+activities may designate U.S. Government civilian or military members as assistant security
+manager(s) to assist the activity security manager with program implementation, maintenance,
+and local oversight.
+
+ (2) Security Assistants. As warranted, activities may assign U.S. Government civilian,
+military members, or contractor employees as security assistants to perform administrative
+security functions under the direction of the activity security manager without regard for job
+series or title or for rank, rate, or grade as long as they have the clearance required for the access
+needed to perform their assigned duties and tasks. (While the scope of responsibilities and job
+titles covered by the General Schedule (GS) 0086 Security Clerical and Assistance Series can be
+consistent with the duties of a security assistant as described in this paragraph, the role of
+security assistant as described in this paragraph does not require that civilian employees hold this
+job series.)
+
+ (3) Communication Security (COMSEC) Custodian. The COMSEC Custodian is the
+activity head’s primary advisor on matters concerning the security and handling of COMSEC
+information and hardware and the associated records and reports and functions in accordance
+with NSA/CSS Policy Manual 3-16 (Reference (an)).
+

@@ -1,0 +1,44 @@
+4. DIRECTOR, WHS. The Director, WHS, under the authority, direction, and control of the
+Chief Management Officer of the Department of Defense, through the Director of
+
+Administration, shall identify to the USD(I&S) an individual and at least one alternate to serve as
+the ISCAP liaison for the Department of Defense in accordance with the ISCAP Bylaws in
+Reference (f).
+
+5. HEADS OF THE DoD COMPONENTS. The Heads of the DoD Components shall, in
+accordance with Reference (b):
+
+ a. Be responsible for the overall management, functioning, and effectiveness of the
+information security program within their respective DoD Component.
+
+ b. Appoint a senior agency official to be responsible for directing, administering, and
+overseeing the information security program within the Component on his or her behalf and
+ensure that official accomplishes the responsibilities in section 7 of this enclosure. The DoD
+Component Head may designate a separate senior official to be responsible for overseeing SAPs
+within the Component, if necessary, in accordance with DoDD 5205.07 (Reference (q)).
+
+ c. If the Component is not an element of the Intelligence Community, designate a senior
+intelligence official to be responsible for ensuring adequate funding and effective
+implementation of the Component’s SCI security program, including awareness and education,
+consistent with guidance established by the DNI.
+
+ d. Identify, program for, and commit necessary resources to effectively implement the
+requirements for protection of classified information as part of the Component’s information
+security program.
+
+ e. Conduct, as periodically directed by the USD(I&S), reviews of the DoD Component’s
+classification guidance and provide reports summarizing results.
+
+ f. Ensure the Component Senior Agency Official and the Component Senior Intelligence
+Official coordinate as appropriate to achieve a harmonized and cohesive information security
+program within the DoD Component.
+
+6. SENIOR AGENCY OFFICIALS. The senior agency officials, under the authority, direction,
+and control of the Heads of the DoD Components, appointed in accordance with section 6 of this
+enclosure shall, in addition to the responsibilities in Volume 4 of this Manual:
+
+ a. Direct, administer, and oversee their respective DoD Component’s information security
+program.
+
+ b. Develop guidance as necessary for program implementation within the DoD Component.
+

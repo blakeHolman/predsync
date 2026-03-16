@@ -1,0 +1,57 @@
+Department of Defense
+ MANUAL
+
+ NUMBER 5200.01, Volume 1
+ February 24, 2012
+ Incorporating Change 3, Effective January 17, 2025
+
+ USD(I&S)
+
+SUBJECT: DoD Information Security Program: Overview, Classification, and
+ Declassification
+
+References: See Enclosure 1
+
+1. PURPOSE
+
+ a. Manual. This Manual is composed of several volumes, each containing its own purpose.
+The purpose of the overall Manual, as authorized by DoD Directive (DoDD) 5143.01 (Reference
+(a)) and DoD Instruction (DoDI) 5200.01 (Reference (b)), is to reissue DoD 5200.1-R
+(Reference (c)) as a DoD manual (DoDM) to implement policy, assign responsibilities, and
+provide procedures for the designation, marking, protection, and dissemination of controlled
+unclassified information (CUI) and classified information, including information categorized as
+collateral, sensitive compartmented information (SCI), and Special Access Program (SAP). This
+guidance is developed in accordance with Reference (b), Executive Order (E.O.) 13526 and E.O.
+13556, and parts 2001 and 2002 of title 32, Code of Federal Regulations (References (d), (e), and
+(f)). This combined guidance is known as the DoD Information Security Program.
+
+ b. Volume. This Volume:
+
+ (1) Describes the DoD Information Security Program.
+
+ (2) Provides guidance for classification and declassification of DoD information that
+requires protection in the interest of the national security.
+
+ (3) Cancels Reference (c) and DoD O-5200.1-I (Reference (g)).
+
+ (4) Incorporates and cancels Directive-Type Memorandums 04-010 (Reference (h)) and
+11-004 (Reference (i)).
+
+2. APPLICABILITY. This Volume:
+
+ a. Applies to OSD, the Military Departments, the Office of the Chairman of the Joint Chiefs
+of Staff and the Joint Staff, the Combatant Commands, the Office of the Inspector General of the
+Department of Defense, the Defense Agencies, the DoD Field Activities, and all other
+organizational entities within the Department of Defense (hereinafter referred to collectively as
+the “DoD Components”).
+
+ b. Does NOT alter existing authorities and responsibilities of the Director of National
+Intelligence (DNI) or of the heads of elements of the Intelligence Community pursuant to
+policies issued by the DNI. Consistent with Reference (b), SCI shall be safeguarded in
+accordance with the policies and procedures issued by the DNI, as implemented by Volumes 1 -
+3 of DoDM 5105.21 (Reference (j)) and other applicable guidance.
+
+3. DEFINITIONS. See Glossary.
+
+4. POLICY. It is DoD policy, in accordance with Reference (b), to:
+

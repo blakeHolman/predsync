@@ -1,0 +1,41 @@
+ (d) Have access appropriate to the level of information managed.
+
+ c. In large activities and where circumstances warrant, designate, in writing, activity
+assistant security manager(s) to assist in program implementation, maintenance, and local
+oversight.
+
+ (1) Responsibilities assigned to assistant security managers shall be commensurate with
+their grade level, experience, and training.
+
+ (2) Individuals assigned as assistant security managers shall be U.S. citizens with
+security clearances and accesses appropriate to their assigned responsibilities.
+
+ (3) Assistant security managers shall report directly to the activity security manager who
+shall provide guidance, direction, coordination, training, and oversight necessary to ensure that
+the program is being administered effectively.
+
+ d. Optionally, where circumstances warrant (such as in activities with large repositories of
+Top Secret information), designate an activity Top Secret control officer (TSCO) to manage and
+account for Top Secret materials, and Top Secret control assistant(s) (TSCA(s)) as needed to
+assist the TSCO. When used, designations shall be in writing. Top Secret couriers are NOT
+considered TSCA(s).
+
+ (1) An individual designated as the TSCO must have been the subject of a favorably
+adjudicated, current background investigation in accordance with requirements of Reference (s)
+and must have Top Secret access. The TSCO shall report directly to the activity security
+manager, or the activity security manager may serve concurrently as the TSCO.
+
+ (2) An individual designated as a TSCA must have been the subject of a favorably
+adjudicated, current background investigation in accordance with requirements of Reference (s)
+and must have Top Secret access.
+
+ e. When required by DoDD 5100.55 (Reference (t)), designate, in writing, an activity NATO
+control point officer and at least one alternate to ensure that NATO information is correctly
+controlled and accounted for, and that NATO security procedures are followed. United States
+Security Authority for NATO (USSAN) Instruction 1-07 (Reference (u)) was written by USD(P)
+on behalf of the Secretary of Defense, acting as the U.S. Security Authority to NATO and
+administrator of NATO information security regulation. It establishes procedures and minimum
+security standards for the handling and protection of NATO classified information.
+
+8. ACTIVITY SECURITY MANAGER. The activity security manager shall:
+

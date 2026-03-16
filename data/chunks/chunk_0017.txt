@@ -1,0 +1,44 @@
+ g. Establish and maintain a security education and training program as required by
+Enclosure 5 of Volume 3 of this Manual, ensure that DoD Component personnel receive security
+education and training as appropriate to their functions, and grant, when appropriate, waivers to
+the original and derivative classification training requirements of section 7 of Enclosure 5 of
+Volume 3.
+
+ h. Ensure that the performance contract or other system used to rate the performance of
+civilian and military personnel includes the designation and management of classified
+information, to include Restricted Data and Formerly Restricted Data information when
+appropriate, as a critical element or item to be evaluated in the rating of:
+
+ (1) OCAs.
+
+ (2) Security managers and security specialists.
+
+ (3) Personnel who derivatively classify information on a routine basis.
+
+ (4) Information system security personnel if their duties involve access to classified
+information and information system personnel (e.g., system administrators) with privileged
+access to classified system or network resources.
+
+ (5) All other personnel whose duties include significant involvement with the creation or
+handling of classified information.
+
+ i. Account for the costs associated with implementing this Manual within the DoD
+Component and report those costs as required.
+
+ j. Ensure prompt and appropriate response to any request, appeal, challenge, complaint, or
+suggestion arising out of implementation of this Manual within the DoD Component.
+
+ k. Establish procedures for receipt of information, allegations, or complaints regarding over-
+classification or incorrect classification within the DoD Component and, as needed, provide
+guidance to personnel on proper classification.
+
+ l. Approve, when appropriate, the use of alternative compensatory control measures
+(ACCM) for classified information over which the senior agency official has cognizance and
+provide written notification within 30 days to the Director of Security, Office of the Under
+Secretary of Defense for Intelligence and Security (OUSD(I&S)), or the Director, International
+Security Programs, Defense Technology Security Administration, Office of the USD(P)
+(OUSD(P)), as appropriate, when establishing or terminating an ACCM.
+
+ m. Submit an annual report addressing how the DoD Component implemented that portion
+of the information security program dealing with classified information.
+

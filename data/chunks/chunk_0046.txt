@@ -1,0 +1,41 @@
+10. THE PATENT SECRECY ACT OF 1952. Sections 181 through 188 of title 35, U.S.C.
+(also known and hereinafter referred to as “The Patent Secrecy Act of 1952” (Reference (bd))
+provides that the Secretary of Defense, among others, may determine that disclosure of an
+invention by granting of a patent would be detrimental to the national security. The Department
+of Defense shall handle a patent application on which a secrecy order has been imposed as
+follows:
+
+ a. If the patent application contains information that warrants classification, it shall be
+assigned a classification and be marked and safeguarded commensurate with the level of
+classification.
+
+ b. Unclassified patent applications that do not contain information that warrants
+classification, but requires CUI safeguarding and dissemination controls, will be marked as a
+category of CUI in accordance with Volume 4 of this Manual. This same requirement applies to
+legacy patent applications marked with the former statement that required handling as
+CONFIDENTIAL.
+
+11. REQUESTS FOR CLASSIFICATION DETERMINATION. Within 30 days of receipt
+OCAs shall provide a classification determination to requests for same from individuals who are
+not OCAs, but who believe they have originated information requiring classification. If the
+
+information is not under the OCA’s classification authority, the request shall be referred to the
+appropriate OCA and the requestor shall be informed of the referral. Pending a classification
+determination the information shall be protected consistent with the requirements of this Manual.
+
+12. CHALLENGES TO CLASSIFICATION
+
+ a. Principles. If holders of information have substantial reason to believe that the
+information is improperly or unnecessarily classified, they shall communicate that belief to their
+security manager or the OCA to bring about any necessary correction. This may be done
+informally or by submitting a formal challenge to the classification in accordance with
+References (d) and (f).
+
+ (1) Informal questioning of classification is encouraged before resorting to formal
+challenge. If the information holder has reason to believe the classification applied to
+information is inappropriate, he or she should contact the classifier of the source document or
+material to resolve the issue.
+
+ (2) The Heads of the DoD Components shall ensure that no retribution is taken against
+any individual for questioning a classification or making a formal challenge to a classification.
+

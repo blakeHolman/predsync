@@ -1,0 +1,52 @@
+ (1) Using Microsoft SharePoint to make available all information that security
+managers need to manage their programs and share unit best practices.
+
+ (2) Creating and using an electronic security manager handbook.
+
+ (3) Providing and maintaining open communications between different levels of
+management structure within the organization.
+
+ (4) Establishing and using online training tools to track training requirement
+completion.
+
+ (5) Issuing and using the Quarterly Security newsletter that provides information
+security articles, security updates, and upcoming security courses.
+
+ (6) Maintaining an automated security incident reporting program.
+
+ (7) Maintaining complete inventories of all classified documents and electronic
+media to provide precise tracking of classified holdings.
+
+ (8) Developing organization derivative classification training.
+
+ (9) Reviewing the process for public release of information.
+
+ (10) Maintaining a central security and education awareness mailbox with
+questions answered by close of business.
+
+ (11) Tracking mandatory annual security and derivative classification training by
+the Human Resources Information System of Record, which enhances better oversight of
+training completion rates.
+
+ (12) Developing a comprehensive security database reflecting final adjudication
+and investigation of security incidents.
+
+ e. Establish procedures to prevent unauthorized persons from accessing classified
+information, including:
+
+ (1) Specific requirements for protecting classified information at DoD Component-
+sponsored meetings and conferences, to include seminars, exhibits, symposiums, conventions,
+training activities, workshops, or other such gatherings, during which classified information is
+disseminated.
+
+ (2) Requirements for protecting U.S. classified information located in foreign countries,
+with particular attention on ensuring proper enforcement of controls on release of U.S. classified
+information to foreign entities.
+
+ (3) Procedures to accommodate visits to DoD Component facilities involving access to,
+or disclosure of, classified information.
+
+ f. Establish and maintain declassification programs and plans that meet the requirements of
+this Manual and ensure that necessary resources are applied to the review of information to
+ensure it is neither classified for longer than necessary nor declassified prematurely.
+

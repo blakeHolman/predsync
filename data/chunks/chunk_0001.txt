@@ -1,0 +1,42 @@
+ a. Identify and protect national security information and CUI in accordance with national
+level policy issuances.
+
+ b. Promote information sharing, facilitate judicious use of resources, and simplify
+management through implementation of uniform and standardized processes.
+
+ c. Classify and declassify national security information as required by References (d) and (f).
+
+5. RESPONSIBILITIES. See Enclosure 2.
+
+6. PROCEDURES. See Enclosures 3 through 5.
+
+7. INFORMATION COLLECTION REQUIREMENTS.
+
+The Annual Report on Classified Information referenced in paragraph 7.m. of Enclosure 2 of this
+Volume has been assigned Report Control Symbol (RCS) DD-INT(AR)1418 in accordance with
+the procedures in Volume 1 of DoDM 8910.01 (Reference (k)).
+
+8. RELEASABILITY. Cleared for public release. This Volume is available on the DoD
+Issuances Website at https://www.esd.whs.mil/DD.
+
+9. SUMMARY OF CHANGE 3. The change to this volume removes language regarding
+original classification authority (OCA) and security classification guides in accordance with
+Paragraph 1.2. of DoD Manual 5200.45 (Reference (bm)).
+
+10. EFFECTIVE DATE. This Volume is effective February 24, 2012.
+
+Enclosures
+ 1. References
+ 2. Responsibilities
+ 3. DoD Information Security Program Overview
+ 4. Classifying Information
+ 5. Declassification and Changes in Classification
+ 6. Security Classification Guides
+Glossary
+
+ TABLE OF CONTENTS
+
+ENCLOSURE 1: REFERENCES ...................................................................................................8
+
+ENCLOSURE 2: RESPONSIBILITIES .......................................................................................11
+

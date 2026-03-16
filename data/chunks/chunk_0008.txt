@@ -1,0 +1,41 @@
+(a) DoD Directive 5143.01, “Under Secretary of Defense for Intelligence and Security
+ (USD(I&S)),” October 24, 2014, as amended
+(b) DoD Instruction 5200.01, “DoD Information Security Program and Protection of Sensitive
+ Compartmented Information (SCI),” April 21, 2016
+(c) DoD 5200.1-R, “Information Security Program,” January 14, 1997 (hereby cancelled)
+(d) Executive Order 13526, “Classified National Security Information,” December 29, 2009
+(e) Executive Order 13556, “Controlled Unclassified Information,” November 4, 2010
+(f) Parts 2001 and 2002 of title 32, Code of Federal Regulations
+(g) DoD O-5200.1-I, “Index of Security Classification Guides (U),” September 1, 1996 (hereby
+ cancelled)
+(h) Directive-Type Memorandum 04-010, “Interim Information Security Guidance,” April 16,
+ 2004 (hereby cancelled)
+(i) Directive-Type Memorandum 11-004, “Immediate Implementation Provisions of Executive
+ Order 13526, “Classified National Security Information,” April 26, 2011 (hereby cancelled)
+(j) DoD Manual 5105.21, Volumes 1 - 3, “Sensitive Compartmented Information (SCI)
+ Administrative Security Manual,” October 19, 2012
+(k) DoD Manual 8910.01, Volume 1,“DoD Information Collections Manual: Procedures for
+ DoD Internal Information Collections,” June 30, 2014, as amended
+(l) Section 2723 of title 10, United States Code
+(m) DoD Directive 5210.50, “Management of Serious Security Incidents Involving Classified
+ Information,” October 27, 2014
+(n) DoD Directive 5205.16, “The DoD Insider Threat Program,” September 30, 2014, as
+ amended
+(o) Joint Under Secretary of Defense for Intelligence, DoD Chief Information Officer, and
+ Commander, United States Strategic Command Memorandum, “Effective Integration of
+ Cyber and Traditional Security Efforts,” March 31, 2014
+(p) DoD Directive 5111.1, “Under Secretary of Defense for Policy (USD(P)),”
+ December 8, 1999
+(q) DoD Directive 5205.07, “Special Access Program (SAP) Policy,” July 1, 2010
+(r) DoD Inspector General Report DODIG-2013-142, “DoD Evaluation of Over-Classification
+ of National Security Information,” September 30, 2013
+(s) DoD 5200.2-R, “Personnel Security Program,” January 1987, as amended
+(t) DoD Directive 5100.55, “United States Security Authority for North Atlantic Treaty
+ Organization Affairs (USSAN),” February 27, 2006
+(u) United States Security Authority for NATO Affairs Instruction 1-07, “Implementation of
+ North Atlantic Treaty Organization (NATO) Security Requirements,” April 5, 2007 1
+(v) DoD Directive 5230.09, “Clearance of DoD Information for Public Release,”
+ August 22, 2008, as amended
+(w) DoD Instruction 5230.29, “Security and Policy Review of DoD Information for Public
+ Release,” August 13, 2014, as amended
+

@@ -1,0 +1,47 @@
+ (1) The report, covering the previous fiscal year, shall be submitted on Standard Form
+(SF) 311, “Agency Information Security Program Data,” to reach the Director of Security,
+
+OUSD(I&S), prior to October 31 of each year. The Military Departments shall submit their
+reports directly to ISOO, with a copy furnished to OUSD(I&S). OUSD(I&S) shall compile the
+reports, excluding those of the Military Departments, and provide a consolidated report to ISOO.
+
+ (2) The SF 311 shall be completed according to the instructions accompanying the form
+and those provided by ISOO and OUSD(I&S).
+
+ n. Cooperate and coordinate with the Component senior intelligence official as appropriate
+to achieve a harmonized and cohesive information security program within the DoD Component.
+
+7. HEADS OF DoD ACTIVITIES. The heads of DoD activities shall:
+
+ a. Be responsible for overall management, functioning and effectiveness of the activity’s
+information security program.
+
+ b. Designate, in writing, an activity security manager, who shall be given the necessary
+authority to ensure personnel adhere to program requirements. Provide the designated activity
+security manager direct access to activity leadership and ensure he or she is organizationally
+aligned to ensure prompt and appropriate attention to program requirements.
+
+ (1) The activity security manager may be assigned full-time, part-time, or as a collateral
+duty, provided that the responsibilities delineated in section 9 of this enclosure can be adequately
+and professionally executed and implemented.
+
+ (2) The activity security manager shall:
+
+ (a) Be a military officer, senior non-commissioned officer, or a civilian employee
+with sufficient authority, staff, and other resources necessary to manage the program for the
+activity.
+
+ 1. For activities with more than 100 personnel assigned, a senior non-
+commissioned officer designated as the activity security manager shall be E-7 or above; a
+civilian employee so designated shall be GS-11 or above (or pay band equivalent).
+
+ 2. For activities with less than 100 personnel assigned, a senior non-
+commissioned officer designated as the activity security manager shall be E-6 or above; a
+civilian employee so designated shall be GS-7 or above (or pay band equivalent).
+
+ (b) Be a U.S. citizen.
+
+ (c) Have been the subject of a favorably adjudicated, current background
+investigation appropriate for the highest level of classification of information handled by
+personnel within the activity in accordance with requirements of DoD 5200.2-R (Reference (s)).
+

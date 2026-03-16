@@ -1,0 +1,48 @@
+ a. Activity security management shall ensure that contractors who are involved in security
+administration and support duties are clearly identified in their capacities, roles, and functions, to
+ensure there is no possible confusion regarding which security personnel may exercise inherently
+governmental authorities and which may not.
+
+ b. Inherently governmental activities and functions include those that require either the
+exercise of substantial discretion in applying U.S. Government authority, or value judgments
+when making decisions for the U.S. Government. Inherently governmental security functions
+include, but are not limited to:
+
+ (1) Approving and issuing security policies and procedures.
+
+ (2) Making original classification decisions, or rendering classification determinations
+regarding classified information that is improperly or incompletely marked. (Correcting
+improper markings when the appropriate classification is not in question is not considered
+rendering a classification determination.)
+
+ (3) Deciding to downgrade or declassify information. (Adhering to security markings on
+information or to guidance stated in an appropriate security classification or declassification
+guide is not considered a downgrading or declassification decision.)
+
+ (4) Deciding challenges to classification and any appeals.
+
+ (5) Making foreign disclosure decisions pursuant to Reference (y).
+
+ (6) Making public release decisions pursuant to Reference (v).
+
+ (7) Committing to expenditure of U.S. Government funds pursuant to References ((ao)
+and (ap)).
+
+ (8) Conducting investigations of, or determining fault in, security incidents involving
+U.S. Government or other contractor personnel. (Contractors may conduct preliminary inquiries
+to determine if a security incident is a violation or an infraction.)
+
+ (9) Giving final approval or executing documents for filing in litigation if documents
+assert an official position of the Department of Defense, any DoD Component, or any other
+Federal agency.
+
+8. USE OF FOREIGN NATIONALS IN SECURITY ADMINISTRATION. Foreign nationals
+may not engage in the following DoD security administrative activities:
+
+ a. Approving and issuing security policies and procedures.
+
+ b. Making original classification decisions, or rendering classification determinations
+regarding classified information that is improperly or incompletely marked. Correcting improper
+markings when the appropriate classification is not in question is not considered rendering a
+classification determination.
+

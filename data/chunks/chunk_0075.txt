@@ -1,0 +1,37 @@
+declassification. The authorized change in the status of information from classified information
+to unclassified information.
+
+declassification authority
+
+ The official who authorized the original classification, if that official is still serving in the
+same position;
+
+ The originator’s current successor in function, if that individual has OCA;
+
+ A supervisory official of either the originator or his or her successor in function, if the
+supervisory official has OCA; or
+
+ Officials delegated declassification authority in writing by the agency head or the senior
+agency official.
+
+declassification guide. Written instructions issued by a declassification authority that describes
+the elements of information regarding a specific subject that may be declassified and the
+elements that must remain classified. May also be a guide providing classification and
+declassification instructions specifically for information that is 25 years old or older and of
+permanent historical value. A declassification guide is the most commonly used vehicle for
+obtaining ISCAP approval of 25-year exemptions from the automatic declassification provisions
+of Reference (d).
+
+Defense Intelligence Components. All DoD organizations that perform national intelligence,
+Defense Intelligence, and intelligence-related functions, including: the Defense Intelligence
+Agency; the National Geospatial-Intelligence Agency, the National Reconnaissance Office, the
+National Security Agency/Central Security Service, and the intelligence elements of the Active
+and Reserve components of the Military Departments, including the United States Coast Guard
+when operating as a service in the Navy.
+
+derivative classification. Incorporating, paraphrasing, restating, or generating in new form
+information that is already classified, and marking the newly developed material consistent with
+the classification markings that apply to the source information. Includes the classification of
+information based on classification guidance. The duplication or reproduction of existing
+classified information is not derivative classification.
+

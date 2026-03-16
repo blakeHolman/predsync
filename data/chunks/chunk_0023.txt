@@ -1,0 +1,35 @@
+11. INFORMATION SYSTEMS SECURITY OFFICIALS. Information systems security
+officials (e.g., DAA or agency official (AO), IAM or information systems security manager
+(ISSM), and information systems security officer) designated, in writing, as required by
+DoDI 8500.01 (Reference (ae)), shall:
+
+ a. Coordinate with the activity security manager regarding implementation of information
+systems security measures and procedures.
+
+ b. Notify the activity security manager, who retains overall security responsibility for
+required inquiries and investigations, when there are incidents involving possible or actual
+compromise or data spills of classified information resident in information systems, as required
+by Reference (ae), and coordinate with him or her as required for resolution of the incident.
+
+ ENCLOSURE 3
+
+ DoD INFORMATION SECURITY PROGRAM OVERVIEW
+
+1. PURPOSE. Effective execution of a robust information security program that gives equal
+priority to both protecting information and demonstrating a commitment to open Government
+and that includes accurate, accountable application of classification standards and routine,
+secure, and effective declassification is a national security imperative. This Manual provides
+overarching program guidance and direction for the DoD Information Security Program. While
+day-to-day program execution is the responsibility of all DoD personnel, program
+implementation must be guided by active and engaged senior managers at all levels who have the
+responsibility for overall program execution and by security managers who ensure the program is
+visible, effective, and efficient.
+
+2. SCOPE. The DoD Information Security Program implements References (b), (d), and (f)
+with regard to the classification, declassification, and protection of classified information,
+including information categorized as collateral, SCI, and SAP, and provides guidance to users to
+identify, mark, and protect certain types of unclassified information, referred to as CUI, in
+accordance with Reference (e), Reference (f), and other national-level directives. This combined
+guidance is known as the DoD Information Security Program and is applicable to all DoD
+Components.
+

@@ -1,0 +1,28 @@
+19. UPGRADING CLASSIFIED INFORMATION. Classified information may be upgraded to
+a higher level of classification only by officials who have been delegated the appropriate level of
+OCA in accordance with Enclosure 4 of this Volume. The information to be upgraded must
+continue to meet the standards for classification specified in Enclosure 4 of this Volume. When
+making the decision to upgrade the classification level, OCAs shall consider the benefits to
+national security that will accrue from the higher classification against the costs associated with
+upgrading (e.g., the requirement for upgraded clearances or storage facilities, notification costs)
+and the ability to notify all holders of the information of the change so that the information shall
+be uniformly protected at the higher level. The OCA making the upgrading decision is
+responsible for notifying holders of the change in classification. For information subject to the
+STIP (Reference (bk)), the OCA shall also notify the Defense Technical Information Center.
+Upgraded information shall be marked as required by Enclosure 3 of Volume 2 of this Manual.
+
+20. DECLASSIFYING FGI. Pursuant to Reference (d), FGI qualifies as an exemption to the
+automatic declassification rule. Within the Department of Defense, every effort shall be made to
+ensure that FGI is not subject to downgrading or declassification without the prior consent of the
+originating government. FGI may exist in two forms: foreign documents in possession of the
+Department of Defense, and foreign government classified information included within U.S.
+Government documents.
+
+ a. If FGI in the form of foreign documents in the possession of the Department of Defense
+constitute permanently valuable records of the U.S. Government and are subject to the 25-year
+automatic declassification rule, declassification officials shall consult with the originating
+foreign government to determine whether it consents to declassification. If the originating
+foreign government does not consent, the records shall be processed for exemption from
+automatic declassification in accordance with section 13 of this enclosure. The agency head
+shall determine whether exemption category 25X6, 25X9, or both should be applied.
+

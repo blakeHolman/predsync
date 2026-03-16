@@ -1,0 +1,43 @@
+10. CLASSIFICATION POLICY. Information shall be classified only when necessary in the
+interests of national security and shall be declassified as soon as is consistent with the
+requirements of national security.
+
+11. RECLASSIFICATION. After information has been declassified and released to the public
+under proper authority, it may be reclassified only in accordance with paragraph 17.b. of
+Enclosure 4.
+
+12. ACCESS TO CLASSIFIED INFORMATION
+
+ a. Requirements for Access. Persons shall be allowed access to classified information only
+if they:
+
+ (1) Possess a valid and appropriate security clearance in accordance with Reference (s).
+Reference (s) contains detailed guidance on personnel security investigation, adjudication, and
+clearance.
+
+ (2) Have executed an appropriate non-disclosure agreement.
+
+ (3) Have a valid need to know the information in order to perform a lawful and
+authorized governmental function.
+
+ b. Nondisclosure Agreements
+
+ (1) Before being granted access to Confidential, Secret, or Top Secret information,
+employees shall sign SF 312, “Classified Information Nondisclosure Agreement,” or other non-
+disclosure agreement approved by the DNI. SF 312 (or its predecessor, SF 189), or a legally
+enforceable facsimile retained in lieu of the original, shall be maintained for 50 years from the
+date of signature. Electronic signatures shall not be used to execute the SF 312.
+
+ (2) Before being granted access to SCI information, individuals adjudicated and
+approved for access shall sign a DNI-authorized SCI nondisclosure agreement. Consistent with
+the provisions of DoDD 5210.48 (Reference (ar)) and all applicable laws, that agreement shall
+include, as an addendum, the individual’s written certification that they may be asked to undergo
+a polygraph examination in connection with any investigation of an unauthorized disclosure of
+SCI information to which they have had access.
+
+ (3) Before being granted access to SAP information, individuals adjudicated and
+approved for access shall additionally sign a DoD-approved program indoctrination agreement(s)
+for that information as required by Reference (q). Before gaining access and during a period of
+access to DoD SAPs, all personnel shall consent to, and be subject to, a random CI-scope polygraph
+examination as required by Reference (q).
+

@@ -1,0 +1,43 @@
+ c. Direct the head of each activity within the DoD Component that creates, handles, or stores
+classified information to appoint, in writing, an official to serve as security manager for the
+activity, to properly manage and oversee the activity’s information security program. Persons
+
+appointed to these positions shall be provided training as Enclosure 5 of Volume 3 of this
+Manual requires.
+
+ d. Establish and maintain an ongoing self-inspection and oversight program to evaluate and
+assess the effectiveness and efficiency of the DoD Component’s implementation of that portion
+of the information security program pertaining to classified information.
+
+ (1) Evaluation criteria shall consider, at a minimum, original and derivative
+classification, declassification, safeguarding, security violations, education and training, and
+management and oversight.
+
+ (2) The program shall include regular review and assessment of representative samples
+of the DoD Component’s classified products. Appropriate officials shall be authorized to correct
+misclassification of information, except for information covered by paragraph 17.b. or section 18
+of Enclosure 4 of this Volume.
+
+ (3) Self-inspections shall be conducted at least annually with the frequency established
+based on program needs and classification activity. DoD Component activities that originate
+significant amounts of classified information should be inspected at least annually. Annual
+reports on the Component’s self-inspection program shall be submitted as required by ISOO
+and/or USD(I&S). The report shall include:
+
+ (a) A description of the agency’s self-inspection program, to include activities
+assessed, program areas covered, and methodology utilized.
+
+ (b) A summary of the findings in the following program areas: original classification,
+derivative classification, declassification, safeguarding, security violations, security education
+and training, and management and oversight.
+
+ (c) Specific information on the findings of the annual review of agency original and
+derivative classification actions to include the volume of classified materials reviewed and the
+number and type of discrepancies that were identified.
+
+ (d) Actions taken or planned to correct identified deficiencies or misclassification
+actions, and to deter their recurrence.
+
+ (e) Best practices identified. The DoD Inspector General Report DODIG-2013-142
+(Reference (r)) identifies examples of DoD Component best practices, including the following:
+

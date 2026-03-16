@@ -1,0 +1,41 @@
+(x) DoD Instruction 8550.01, “DoD Internet Services and Internet-Based Capabilities,”
+ September 11, 2012
+(y) DoD Directive 5230.11, “Disclosure of Classified Military Information to Foreign
+ Governments and International Organizations,” June 16, 1992
+(z) DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals,” June 22, 2005
+(aa) DoD Instruction 5200.08, “Security of DoD Installations and Resources and the DoD
+ Physical Security Review Board (PSRB),” December 10, 2005, as amended
+(ab) DoD Instruction 5220.22, “National Industrial Security Program (NISP),” March 18, 2011
+(ac) Executive Order 12968, “Access to Classified Information,” August 2, 1995, as amended
+(ad) Intelligence Community Directive 703, “Protection of Classified National intelligence,
+ Including Sensitive Compartmental Information (SCI),” June 21 2013 2
+(ae) DoD Instruction 8500.01, “Cybersecurity,” March 14, 2014
+(af) Sections 3021, 3141, 3142, 3143, 3144, 1801(p) and 2673 of title 50, United States Code
+(ag) Section 1011 of Public Law 108-458, “Intelligence Reform and Terrorism Prevention Act
+ of 2004,” December 17, 2004
+(ah) Executive Order 12333, “United States Intelligence Activities,” December 4, 1981, as
+ amended
+(ai) Part 1045 of title 10, Code of Federal Regulations
+(aj) DoD Directive 5144.02, “DoD Chief Information Officer (DoD CIO),”November 21, 2014,
+ as amended
+(ak) National Security Directive 42, “National Policy for the Security of National Security
+ Telecommunications and Information Systems,” July 5, 1990 3
+(al) DoD Instruction 3305.13, “DoD Security Education, Training, and Certification,” February
+ 13, 2014
+(an) National Security Agency/Central Security Service Policy Manual 3-16, “Control of
+ Communications Security (COMSEC) Material,” August 5, 2005 4
+(ao) DoD Instruction 1100.22, “Policy and Procedures for Determining Workforce Mix,”
+ April 12, 2010, as amended
+(ap) Office of Federal Procurement Policy Letter 11-01, “Performance of Inherently
+ Governmental and Critical Functions,” September 12, 2011
+(aq) Section 2011, et seq, of title 42, United States Code (also known as “The Atomic Energy
+ Act of 1954, as amended”)
+(ar) DoD Directive 5210.48, “Credibility Assessment (CA) Program,” April 24, 2015, as
+ amended
+(as) DoD Instruction 5210.02, “Access to and Dissemination of Restricted Data and Formerly
+ Restricted Data,” June 3, 2011, as amended
+(at) DoD Instruction 5205.11, “Management, Administration, and Oversight of DoD Special
+ Access Programs (SAPs),” February 6, 2013
+(au) Chairman of the Joint Chiefs of Staff Instruction 3231.01B, “Safeguarding Nuclear
+ Command and Control Extremely Sensitive Information,” June 21, 2006 5
+

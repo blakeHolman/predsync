@@ -1,0 +1,36 @@
+ (f) Reveal information, including FGI, that would cause serious harm to relations
+between the United States and a foreign government, or to ongoing diplomatic activities of the
+United States (exemption 25X6);
+
+ (g) Reveal information that would impair the current ability of U.S. Government
+officials to protect the President, Vice President, and other protectees for whom protection
+services, in the interest of the national security, are authorized (exemption 25X7);
+
+ (h) Reveal information that would seriously impair current national security
+emergency preparedness plans or reveal current vulnerabilities of systems, installations, or
+infrastructures relating to the national security (exemption 25X8); or
+
+ (i) Violate a statute, treaty, or international agreement that does not permit the
+automatic or unilateral declassification of information at 25 years (exemption 25X9).
+
+ (2) Exempting 50-Year-Old Information. Information that is 50 years old may continue
+to be exempted (by topic or files series) from automatic declassification for an additional
+25 years (i.e., for a period not to exceed 75 years from the date of origin) when:
+
+ (a) The release would clearly and demonstrably be expected to reveal the identity of
+a confidential human source or a human intelligence source (exemption 50X1-HUM), or key
+design concepts of weapons of mass destruction (exemption 50X2-WMD), or
+
+ (b) In extraordinary cases, the Secretary of Defense or the Secretary of a Military
+Department, or their senior agency officials, as appropriate, proposes within 5 years of the onset
+of automatic declassification to further exempt specific information from declassification at
+50 years. The exemption category numbers are the same as for 25 year exemptions, except the
+number “50” shall be used in place of “25.”
+
+ (3) Exempting 75-Year-Old Information. The Secretary of Defense or the Secretaries of
+the Military Departments, or their senior agency officials, as appropriate, may propose within 5
+years of the onset of automatic declassification to further exempt specific information from
+declassification at 75 years. Such proposals must be formally accepted by the ISCAP. The
+exemption category numbers are the same as for 25 year exemptions, except the number “75”
+shall be used in place of “25.”
+

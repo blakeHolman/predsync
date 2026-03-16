@@ -1,0 +1,35 @@
+3. PERSONAL RESPONSIBILITY. All personnel of the Department of Defense are personally
+and individually responsible for properly protecting classified information and CUI under their
+custody and control. All officials within the Department of Defense who hold command,
+management, or supervisory positions have specific, non-delegable responsibility for the quality
+and effectiveness of implementation and management of the information security program within
+their areas of responsibility.
+
+4. NATIONAL AUTHORITIES FOR SECURITY MATTERS
+
+ a. President of the United States. The President of the United States bears executive
+responsibility for the security of the Nation, which includes the authority to classify information
+for the protection of the national defense and foreign relations of the United States. The
+President has established standards for the classification, safeguarding, and declassification of
+national security information through the issuance of Reference (d) and for the designation and
+protection of CUI through the issuance of Reference (e).
+
+ b. National Security Council (NSC). In accordance with section 3021 of title 50, U.S.C.
+(Reference (af)), the NSC provides overall policy guidance on information security.
+
+ c. DNI. The DNI is head of the Intelligence Community and principal advisor to the
+President and the NSC for intelligence matters related to national security pursuant to Section
+1011 of Public Law 108-458 (Reference (ag)) and Section 1.3 of E.O. 12333 (Reference (ah)).
+The DNI is also charged by section 1.3(b)(8) of Reference (ah) with protecting intelligence
+sources, methods, and activities, and in this role, the DNI issues instructions in the form of
+Intelligence Community Directives or other security policies and standards for the protection,
+management and oversight of SCI and other national intelligence.
+
+ d. ISOO. The ISOO, under the authority of the Archivist of the United States, acting in
+consultation with the NSC, issues directives as necessary to implement Reference (d). The
+directives establish national standards for the classification and marking of national security
+information, security education and training programs, safeguarding, self-inspection programs,
+and declassification. The ISOO has the responsibility to oversee agency implementation and
+compliance with these directives. In this role, the ISOO requests certain information regarding
+DoD activities, and such requests are coordinated through USD(I&S).
+

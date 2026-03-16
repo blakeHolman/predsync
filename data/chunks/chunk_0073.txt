@@ -1,0 +1,40 @@
+activity security manager. The individual specifically designated in writing and responsible for
+the activity’s information security program, which ensures that classified information (except
+SCI which is the responsibility of the SSO appointed by the senior intelligence official) and CUI
+are properly handled during their entire life cycle. This includes ensuring information is
+appropriately identified, marked, stored, disseminated, disposed of, and accounted for, as well as
+providing guidance on the handling of security incidents to minimize adverse effects and ensure
+that appropriate corrective action is taken. The security manager may be assigned
+responsibilities in other security disciplines such as personnel and physical security, etc. The
+activity security manager implements the information security program guidance established by
+this Manual and the Component senior agency official.
+
+agency. Any Executive agency as defined in section 105 of Reference (ay); any Military
+Department as defined in section 102 of Reference (bd); and any other entity within the
+Executive Branch that comes into the possession of classified information.
+
+authorized person. A person who has a favorable determination of eligibility for access to
+classified information, has signed an SF 312 nondisclosure agreement, and has a need to know
+for the specific classified information in the performance of official duties.
+
+automatic declassification. The declassification of information based solely upon:
+
+ The occurrence of a specific date or event as determined by the OCA; or
+
+ The expiration of a maximum time frame for duration of classification established pursuant
+to Reference (d).
+
+classification. The act or process by which information is determined to be classified
+information.
+
+classification guidance. Any instruction or source that prescribes the classification of specific
+information.
+
+classification guide. A documentary form of classification guidance issued by an OCA that
+identifies, for a specific subject, the elements of information that must be classified and
+establishes the level and duration of classification for each such element.
+
+classified national security information. Information that has been determined pursuant to
+Reference (d), or any predecessor order, to require protection against unauthorized disclosure
+and is marked to indicate its classified status when in documentary form.
+

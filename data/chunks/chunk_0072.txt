@@ -1,0 +1,54 @@
+ IA information assurance
+ IAM information assurance manager
+ IR&D independent research and development
+ ISCAP Interagency Security Classification Appeals Panel
+ ISOO Information Security Oversight Office
+ ISSM information system security officer
+ IT information technology
+
+ MR manual review
+
+ NARA National Archives and Records Administration
+ NATO North Atlantic Treaty Organization
+ NC2-ESI Nuclear Command and Control-Extremely Sensitive Information
+ NDC National Declassification Center
+ NSA National Security Agency
+ NSA/CSS National Security Agency/Central Security Service
+ NSC National Security Council
+
+ OADR originating agency’s determination required
+ OCA original classification authority
+ OPSEC operations security
+ OUSD(I&S) Office of the Under Secretary of Defense for Intelligence and Security
+ OUSD(P) Office of the Under Secretary of Defense for Policy
+
+ RD Restricted Data
+
+ SAO Senior Agency Official
+ SAP Special Access Program
+ SCI sensitive compartmented information
+ SCIF sensitive compartmented information facility
+ SF standard form
+ SIPRNET Secret Internet Protocol Router Network
+ SSO special security officer
+ STIP Scientific and Technical Information Program
+
+ TSCA Top Secret control assistant
+ TSCO Top Secret control officer
+
+ UCMJ Uniform Code of Military Justice
+ U.S.C. United States Code
+ USD(I&S) Under Secretary of Defense for Intelligence and Security
+ USD(P) Under Secretary of Defense for Policy
+ USSAN United States Security Authority for NATO
+
+ WHS Washington Headquarters Services
+
+ PART II. DEFINITIONS
+
+Unless otherwise noted, these terms and their definitions are for the purpose of this Volume.
+
+access. The ability or opportunity to obtain knowledge of classified information.
+
+accessioned records. Records of permanent historical value in the legal custody of NARA.
+

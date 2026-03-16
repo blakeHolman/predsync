@@ -1,0 +1,39 @@
+ (a) RD and CNWDI shall be e-mailed only after confirmation that the recipient has a
+final security clearance at the appropriate level, has a need to know the information, and, for
+CNWDI, has received the additional security briefing required by Reference (as).
+
+ (b) All RD and CNWDI files stored on shared or personal local electronic storage
+devices shall be password-protected.
+
+ (c) IT systems and networks must be certified and accredited for RD, FRD, and/or
+CNWDI prior to transmission, processing, or storage of such data. Such certification must verify
+that access to RD, FRD, and CNWDI information, including through websites, is limited to
+authorized recipients by, at a minimum, a properly administered and protected individual
+identifier and password consistent with requirements of Reference (ae).
+
+ (d) System log-ons and properly configured screen savers are sufficient protection
+for e-mail files.
+
+ (e) In accordance with Reference (as), Sigma 14, 15, and 20 information shall not be
+processed on SIPRNET.
+
+ b. Protection of SCI. SCI information shall be controlled and protected in accordance with
+applicable national policy, policies established by the DNI, and implementing DoD issuances.
+Security classification and declassification policies of this Manual apply to SCI information in
+the same manner as other classified information.
+
+ c. Protection of COMSEC Information. COMSEC information shall be controlled and
+protected in accordance with applicable national policy and DoD issuances. Security
+classification and declassification policies of this Manual apply to COMSEC information in the
+same manner as other classified information, except ONLY NSA/CSS is authorized to declassify
+COMSEC information.
+
+ d. Protection of SAP Information. SAPs shall be created, continued, managed, and
+discontinued in accordance with Reference (q) and DoDI 5205.11 (Reference (at)). Information
+covered by SAPs established in accordance with References (q) and (at) shall be classified,
+declassified, controlled, and protected as this Manual, References (q) and (at), and instructions
+issued by officials charged with management of those programs require. The provisions of this
+Manual pertaining to classification, declassification, and marking apply, without exception, to
+SAP information unless waivers of specific requirements are obtained in accordance with
+section 16 of this enclosure.
+

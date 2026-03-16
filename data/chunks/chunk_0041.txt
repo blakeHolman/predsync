@@ -1,0 +1,47 @@
+Pending determination, the document or material containing the information shall be protected at
+the highest level of classification specified by the sources.
+
+5. DURATION OF CLASSIFICATION. Every time a classified document is created, a
+determination must be made regarding how long the information is to be protected (i.e., when the
+information will lose its sensitivity and no longer merit or qualify for classification). This is an
+essential part of the classification process. For derivatively classified information, the most
+restrictive declassification instruction (i.e., the one that specifies the longest duration of
+classification) must be carried forward from the source document(s), security classification
+guide(s) or other classification guidance provided by the OCA. Specific guidance on
+determining the most restrictive instruction is provided in Enclosure 3 of Volume 2.
+
+6. CLASSIFICATION OF ACQUISITION INFORMATION. Classifying information involved
+in the DoD acquisition process shall conform to the requirements of DoDD 5000.01 (Reference
+(az)) and DoDI 5000.02 (Reference (ba)), as well as this enclosure. Security classification
+guides should be updated to include classified critical program information identified as part of
+the program protection planning process required by DoDI 5200.39 (Reference (bb)).
+
+7. CLASSIFICATION OF INFORMATION RELEASED TO THE PUBLIC
+
+ a. Classified Information Released Without Proper Authority
+
+ (1) Classified information that has been released to the public without proper authority
+(e.g., media leak, data spill) remains classified. It may be declassified upon such a determination
+by the appropriate OCA. Enclosure 6 of Volume 3 of this Manual identifies issues to be
+considered when making the decision. When the determination is made that the information will
+remain classified, the appropriate OCA will notify known authorized holders accordingly and
+provide the following marking guidance to be used in the event the information is not marked:
+
+ (a) Overall level of classification.
+
+ (b) Portion markings.
+
+ (c) Identity, by name or personal identifier and position, of the OCA.
+
+ (d) Declassification instructions.
+
+ (e) Concise reason for classification.
+
+ (f) Date the action was taken.
+
+ (2) Holders of the information shall take administrative action, as needed, to apply
+markings and controls. DoD personnel shall not publicly acknowledge the release of classified
+
+information and must be careful not to make any statement or comment that confirms the
+accuracy of or verifies the information requiring protection.
+

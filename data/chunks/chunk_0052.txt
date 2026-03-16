@@ -1,0 +1,42 @@
+4. DECLASSIFICATION GUIDANCE. Persons with declassification authority shall develop
+and issue declassification guidance to facilitate effective review and declassification of
+information classified under both current and previous classified national security information
+Executive orders. The guidance may be in the form of declassification guides, sections of
+
+security classification guides, memorandums, etc. Exemptions authorized in accordance with
+section 13 of this enclosure should be cited in declassification guidance.
+
+5. DECLASSIFICATION OF INFORMATION
+
+ a. Holders of classified information marked with a date or event on the “declassify on” line,
+shall, prior to downgrading or declassifying the information, confirm that the OCA(s) for the
+information has not extended the classification period.
+
+ b. Holders of classified information may confirm the classification period (i.e., date or event
+for declassification) by reference to the applicable security classification or declassification
+guide or other appropriate guidance issued by the OCA(s), or by consultation with the OCA(s).
+Classified information shall continue to be safeguarded as required for the indicated
+classification level until the holder has confirmed that the OCA(s) has not extended the
+classification period.
+
+ c. If the holder of a document has reason to believe it should not be declassified as specified,
+the originator shall be notified through appropriate administrative channels. The document or
+material shall continue to be protected at the originally assigned classification until the issue is
+resolved.
+
+ d. Declassification markings are used to clearly convey the declassified status of the
+information and who authorized the declassification. All declassified information in agency
+records not held by NARA shall have the declassification markings required by Enclosure 3 of
+Volume 2 of this Manual applied.
+
+6. CANCELING OR CHANGING CLASSIFICATION MARKINGS. Declassification
+authority is not required for simply canceling or changing classification markings in accordance
+with guidance from an OCA or declassification authority. Sections 18 and 19 of this enclosure
+provide guidance on downgrading and upgrading classified information.
+
+7. SPECIAL PROCEDURES FOR CRYPTOLOGIC INFORMATION. Only NSA/CSS may
+declassify cryptologic information. Therefore, such information uncovered in systematic or
+mandatory review of U.S. Government records for declassification, including such information
+incorporated into other documents, must be referred to the NSA/CSS for declassification
+determination.
+

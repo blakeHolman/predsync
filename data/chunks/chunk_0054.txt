@@ -1,0 +1,33 @@
+10. EXTENDING CLASSIFICATION BEYOND 25 YEARS FOR UNSCHEDULED
+RECORDS. For unscheduled classified records (both permanent and temporary), the duration of
+classification beyond 25 years shall be determined when the records are scheduled (i.e., when
+NARA has approved a records control schedule that can be used to determine their final
+disposition). Permanently valuable records must be scheduled before they are 25 years old in
+order to request ISCAP approval to extend classification beyond 25 years when applicable.
+Contact the DoD Component Records Manager for further guidance on scheduling records.
+
+11. CLASSIFIED INFORMATION IN THE CUSTODY OF CONTRACTORS, LICENSEES,
+GRANTEES, OR OTHER AUTHORIZED PRIVATE ORGANIZATIONS OR INDIVIDUALS.
+Pursuant to the provisions of Reference (ab), DoD Components must provide security
+
+classification and declassification guidance to contractors, licensees, grantees, or other
+authorized private organizations or individuals who possess DoD classified information. DoD
+Components must also determine if classified records are held by such entities, and, if so,
+whether they are permanent records of historical value and thus subject to automatic
+declassification. Until such a determination has been made by an appropriate official, the
+classified information contained in such records shall not be subject to automatic declassification
+and shall be safeguarded in accordance with the most recent security classification or
+declassification guidance provided by the DoD Component.
+
+12. AUTOMATIC DECLASSIFICATION. Reference (d) establishes a system for
+declassification of information in permanently valuable historical records. DoD Component
+declassification activities shall conduct reviews of records eligible for automatic declassification
+in accordance with the procedures specified in this enclosure and Reference (f) and by the NDC.
+
+ a. Deadline. All permanently valuable records shall be reviewed for declassification by
+December 31 of the year in which they become 25 years old. Unless the document warrants
+continued classification in accordance with an authorized exclusion (see paragraph 12.e of this
+section) or an ISCAP-approved exemption (see section 13 of this enclosure), or qualifies for a
+delay of automatic declassification in accordance with paragraph 12.g. of this section, the
+documents shall be declassified.
+

@@ -1,0 +1,38 @@
+ (4) Except as provided in subparagraphs 12.b.(5) and (6) of this section, provide an
+initial written response to each challenge within 60 days. If not responding fully to the challenge
+within 60 days, the DoD Component shall acknowledge the challenge and provide an expected
+date of response. This acknowledgment shall include a statement that, if no response is received
+within 120 days, the challenger has the right to forward the challenge to the ISCAP for decision.
+The challenger may also forward the challenge to the ISCAP if the Component has not
+responded to an appeal within 90 days of receipt of the appeal. DoD Component responses to
+those challenges it denies shall include the challenger’s right to appeal to the ISCAP.
+
+ (5) Not process the challenge if it concerns information that has been the subject of a
+challenge within the preceding 2 years or is the subject of pending litigation. The DoD
+Component shall inform the challenger of the situation and appropriate appellate procedures.
+
+ (6) Refer challenges involving RD to the Department of the Energy and FRD to the
+Deputy Assistant Secretary of Defense, Nuclear Matters (DASD(NM)) and notify the challenger
+accordingly. Do not include a statement about forwarding the challenge to the ISCAP in the
+notification letter, as these categories of information are not within the purview of the ISCAP.
+
+ (7) In case a classification challenge involves documents that contain RD and/or FRD as
+well as information classified under Reference (d), delete (redact) the RD and FRD portions of
+the documents before the document is forwarded to the ISCAP for review.
+
+ ENCLOSURE 5
+
+ DECLASSIFICATION AND CHANGES IN CLASSIFICATION
+
+1. DECLASSIFICATION POLICY
+
+ a. Per Reference (d), information shall be declassified as soon as it no longer meets the
+standards for classification. In some exceptional cases, the need to protect information still
+meeting these standards may be outweighed by the public interest in disclosure of the
+information, and in these cases the information should be declassified. Pursuant to DoD policy
+in Reference (b), information shall remain classified only as long as:
+
+ (1) It is in the best interest of national security to keep it protected.
+
+ (2) Continued classification is in accordance with the requirements of Reference (d).
+

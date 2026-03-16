@@ -1,0 +1,35 @@
+ (1) Documents not reviewed by December 31 of the year in which they become 25 years
+old shall be automatically declassified unless the onset of automatic declassification has been
+delayed in accordance with paragraph 12.g. of this section or an exemption has been approved.
+
+ (2) Documents exempted from declassification shall be automatically declassified on
+December 31 of the year in which they become 50 years old or, as appropriate, 75 years old
+unless further exempted from declassification in accordance with section 13 of this enclosure.
+
+ (3) If the document’s date of origin cannot be readily determined, the date of original
+classification shall be used to determine the automatic declassification deadline.
+
+ b. Secretary of Defense Certification. In addition to the requirement of paragraph 12.a. of
+this section, DoD Components shall not automatically declassify DoD records without reviewing
+them for declassification unless the Secretary of Defense has certified to Congress that such
+declassification would not harm the national security pursuant to section 1041(c) of Public
+Law 106-65 (Reference (bf)). If records will not be reviewed for declassification as required
+prior to December 31 of the year in which they become 25 years old, the DoD Component Heads
+shall notify the USD(I&S), 6 months in advance of the deadline, so the required Secretary of
+Defense certification can be addressed. Notification shall include identification of the records,
+the compelling reason why the records will not be reviewed by the deadline, how many records
+will remain un-reviewed, where the records are located, and when the required reviews will be
+completed.
+
+ c. Public Release of Automatically Declassified Documents. Automatic declassification
+does not constitute approval for public release of the information. Automatically declassified
+documents shall not be released to the public until a public disclosure review has been conducted
+in accordance with paragraph 1.e. of this enclosure. Declassified information may be designated
+CUI in accordance with Volume 4 of this Manual if it meets the criteria for designation;
+information so designated shall be marked and protected as Volume 4 requires.
+
+ d. Basis for Exclusion or Exemption from Automatic Declassification. Information shall be
+excluded or exempted from automatic declassification provisions based on content. Exclusion or
+exemption shall not be based solely on the type of document or record in which the information
+is found.
+

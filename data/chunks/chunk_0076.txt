@@ -1,0 +1,40 @@
+distribution statement. A statement used on a technical document to denote the extent of its
+availability for secondary distribution, release, and disclosure without additional approvals or
+authorizations. A distribution statement is distinct from and in addition to a security
+classification marking and any dissemination control markings included in the banner line. A
+distribution statement is also required on security classification guides submitted to the Defense
+Technical Information Center.
+
+document. Any recorded information, regardless of the nature of the medium or the method or
+circumstances of recording. This includes any physical medium in or on which information is
+recorded or stored, to include written or printed matter, audiovisual materials, and
+electromagnetic storage media.
+
+downgrading. A determination by a declassification authority that information classified and
+safeguarded at a specified level shall be classified and safeguarded at a lower level.
+
+element of the Intelligence Community. See Intelligence Community.
+
+equity. For purposes of classification management, information originally classified by or under
+the control of an agency.
+
+exception. An approved permanent exclusion or deviation from an information security standard
+or requirement, as specified in this Volume.
+
+exempted. Nomenclature and marking indicating information has been determined to fall within
+an enumerated exemption from automatic declassification in accordance with Reference (d).
+
+FGI
+
+ Information provided to the U.S. Government by a foreign government or governments, an
+international organization of governments, or any element thereof, with the expectation that the
+information, the source of the information, or both, are to be held in confidence.
+
+ Information produced by the U.S. Government pursuant to or as a result of a joint
+arrangement with a foreign government or governments, or an international organization of
+governments, or any element thereof, requiring that the information, the arrangement, or both,
+are to be held in confidence.
+
+ Information received and treated as FGI pursuant to the terms of a predecessor order to
+Reference (d).
+

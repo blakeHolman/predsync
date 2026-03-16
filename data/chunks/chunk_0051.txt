@@ -1,0 +1,32 @@
+ b. DoD Component Heads with OCA may designate officials within their organizations to
+exercise declassification authority (e.g., make declassification decisions, issue declassification
+guidance) over specific types or categories of information for which they are responsible.
+Delegations of declassification authority shall be reported concurrently to the Director of
+Security, OUSD(I&S). Other OCAs may designate members of their staffs to exercise
+declassification authority over information under their jurisdiction. Declassification authorities,
+other than original classifiers, shall receive training as specified in section 6 of Enclosure 5,
+Volume 3 of this Manual upon initial designation and every 2 years thereafter.
+
+ c. Pursuant to section 7 of this enclosure, only NSA/CSS is authorized to downgrade or
+declassify cryptologic information.
+
+ d. If the activity originating the classified information no longer exists, the activity that
+inherited the functions of the originating activity shall determine what constitutes appropriate
+declassification action. If the functions of the originating activity were dispersed to more than
+one activity, the inheriting activity(ies) cannot be determined, or the functions have ceased to
+exist, the senior agency official of the DoD Component of the originating activity shall
+determine the declassification action to be taken.
+
+ e. Information originated by another agency or DoD Component shall be referred to the
+originator for downgrading or declassification determinations.
+
+ f. Declassification of information is an inherently governmental function that must be
+performed by a properly trained and authorized U.S. Government employee having the explicit
+permission of the government organization that originated the information. DoD Components
+must organize for and provide adequate resources to execute this mission while protecting the
+national security. Contractors may perform routine administrative, pre-processing, and
+technology support functions, as well as make recommendations for declassification of
+information. U.S. Government personnel must sample contractors’ declassification
+recommendations at a rate of no less than 5 percent of the total volume of records being
+processed for declassification, before making the formal decision to declassify the information.
+

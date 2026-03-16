@@ -1,0 +1,30 @@
+18. DOWNGRADING CLASSIFIED INFORMATION. Downgrading information to a lower
+level of classification is appropriate when the information no longer requires protection at the
+originally assigned level and can be properly protected at a lower level. The principal purpose of
+downgrading is to conserve security resources by avoiding protection of information at too high
+a level. Any official with jurisdiction over the information who is authorized to classify or
+declassify the information may downgrade it.
+
+ a. Downgrading shall be considered when OCAs are deciding on the duration of
+classification to be assigned. If downgrading dates or events can be identified, they shall be
+specified along with the declassification instruction. Downgrading instructions do not replace
+declassification instructions.
+
+ b. An authorized official making a downgrading decision shall notify all known holders of
+the change in classification. If the information is subject to the Scientific and Technical
+Information Program (STIP) (DoDD 3200.12 (Reference (bk)), the authorized official shall also
+notify the Defense Technical Information Center.
+
+ c. When information is marked for downgrading on a specific date or event and that date or
+event has passed, holders shall confirm that the OCA(s) of the information has not extended the
+higher classification period prior to downgrading DoD information.
+
+ d. Downgraded information shall be marked as required by Enclosure 3 of Volume 2 of this
+Manual.
+
+ e. If a holder of classified information has reason to believe it should not be downgraded as
+indicated, the originator shall be notified through appropriate administrative channels. The
+
+document or material shall continue to be protected at the originally assigned classification until
+the issue is resolved.
+

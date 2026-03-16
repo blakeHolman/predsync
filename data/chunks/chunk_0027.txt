@@ -1,0 +1,45 @@
+ (2) Ensuring adequate resources for a robust information security program are identified
+and programmed.
+
+ (3) Establishing and maintaining a security education program.
+
+ (4) Establishing and maintaining an ongoing self-inspection and program oversight
+function.
+
+ (5) Directing the head of each activity within the DoD Component that creates, handles,
+or stores classified information to appoint an official to serve as security manager for the activity,
+to properly manage and oversee the activity’s information security program.
+
+ c. Activity Security Management. The activity security manager manages and implements
+the activity’s information security program and ensures its visibility and effectiveness on behalf
+of the activity head, who retains the responsibility for overall management and functioning of the
+program. The activity security managers must have sufficient delegated authority to ensure that
+personnel adhere to program requirements, and their position within the organizational hierarchy
+must ensure their credibility and enable them to raise security issues directly to their respective
+activity head.
+
+ (1) Some tasks may be assigned to a number of activity personnel and may even be
+assigned to persons senior to the security manager. Nevertheless, the security manager shall
+remain cognizant of all activity information, personnel, information systems, and physical and
+industrial security functions, and shall ensure that the information security program is
+coordinated and inclusive of all requirements in this Manual.
+
+ (2) The activity security manager responsibilities include:
+
+ (a) Serving as the principal advisor and representative to the activity head in all
+matters pertaining to this Manual.
+
+ (b) Developing a written activity security instruction.
+
+ (c) Ensuring that personnel in the activity who perform security duties are trained.
+
+ (d) Formulating, coordinating, and conducting the activity security education
+program.
+
+ d. TSCO. TSCOs are not required, but the activity head may elect to appoint a TSCO to
+facilitate appropriate control of Top Secret material when there is a need (e.g., accountability of
+Sigma 14 material as required in Volume 2 of this Manual). The TSCO maintains, for paper and
+other physical media (e.g., disk drives and removable computer media), a system of
+accountability (e.g., a registry) for activity Top Secret information and conducts inventories of
+Top Secret information.
+

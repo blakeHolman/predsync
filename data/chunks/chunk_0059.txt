@@ -1,0 +1,40 @@
+ (c) DoD Component Referrals to Other DoD Components. Records containing
+information originated by another DoD Component or the disclosure of which would affect the
+interests or activities of another DoD Component with respect to the classified information shall
+be referred and processed through the NDC, as appropriate. The DoD Component shall be
+notified of these types of referrals.
+
+ (d) Referral Review Period. If any disagreement arises between a DoD Component
+and the NDC regarding the referral review period, the DoD Component shall notify ISOO and
+USD(I&S) of the disagreement. In such cases, the Director of ISOO shall determine the
+appropriate review period for referred records. Otherwise, the DoD Component shall provide a
+final determination on referrals received through the NDC within 1 year of referral or the
+information shall be automatically declassified. If any disagreement arises among the DoD
+Components regarding the referral review period, the USD(I&S) shall determine the appropriate
+period of review for the referred records.
+
+ h. Automatic Declassification of Backlogged Records at NARA. In accordance with
+Presidential Memorandum (Reference (bh)) and under NDC direction:
+
+ (1) Referrals and quality assurance problems within the backlog of more than 400
+million pages of accessioned Federal records previously subject to automatic declassification
+shall be addressed in a manner that will permit public access to all declassified records from this
+backlog no later than December 31, 2013.
+
+ (2) DoD Components shall review all referrals to DoD in the backlogged records and
+identify potentially exemptible information for further referral to other agencies. For DoD, the
+backlog includes all records reviewed for automatic declassification from April 1995 to
+December 2009 that have been accessioned, but not processed, by NARA.
+
+ i. Declassification Review Technique. DoD Components may use a pass/fail or a redaction
+declassification technique when doing automatic declassification reviews.
+
+13. EXEMPTIONS FROM AUTOMATIC DECLASSIFICATION. Reference (d) sets out three
+types of exemptions, specific criteria and duration, and the requirements for requesting an
+exemption from automatic declassification. Information not exempted from automatic
+declassification shall be automatically declassified no later than December 31 of the year that is
+25 years from the date of origin. Information exempted from automatic declassification remains
+subject to the mandatory and systematic declassification review provisions of this Volume.
+
+ a. Exemption Types
+

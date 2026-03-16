@@ -1,0 +1,36 @@
+ e. Protection of NATO and FGI. NATO classified information shall be safeguarded
+consistent with References (d) and (u). Other FGI shall be safeguarded consistent with
+Reference (d) and the requirements of this Manual, except as required by the Appendix to
+Enclosure 4 of Volume 3; treaties; or international agreements. Information that is jointly
+developed with a foreign partner under a cooperative program agreement will be safeguarded in
+accordance with the security and disclosure provisions of the cooperative arrangement.
+
+ f. Protection of Nuclear Command and Control-Extremely Sensitive Information (NC2-ESI).
+Certain information pertaining to the command and control of nuclear weapons is designated
+NC2-ESI. NC2-ESI information shall be marked, safeguarded, and distributed in accordance
+with CJCS Instruction 3231.01B (Reference (au)).
+
+14. RETENTION. Classified information and CUI shall be maintained only when it is required
+for effective and efficient operation of the organization or if law, treaty, international agreement,
+or regulation requires its retention. Such information shall be disposed in accordance with the
+provisions of chapter 33 of title 44, U.S.C. (Reference (av)), as implemented by DoDD 5015.02
+(Reference (aw)), and DoD Component implementing directives and records schedules.
+
+15. PERMANENTLY VALUABLE RECORDS. Classified and controlled unclassified
+documents and material that constitute permanently valuable records of the U.S. Government
+shall be maintained and disposed of in accordance with Reference (aw) and appropriate DoD
+
+Component directives and records schedules. Other classified and controlled unclassified
+material shall be destroyed as specified in this Manual. When transferring classified records for
+storage or archival purposes to the National Archives and Records Administration (NARA) or to
+other locations, identify the boxes that contain foreign government documents as well as DoD
+documents containing FGI.
+
+16. MILITARY OPERATIONS. Military commanders may modify the provisions of this
+Manual pertaining to accountability, dissemination, transmission, and storage of classified and
+controlled unclassified material and information as necessary to meet local conditions
+encountered during military operations. Military operations include combat and peacekeeping
+operations but not routine Military deployments or exercises. Classified information and CUI
+shall be introduced into combat areas or zones, or areas of potential hostile activity, only as
+necessary to accomplish the military mission.
+

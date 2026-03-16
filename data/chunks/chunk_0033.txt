@@ -1,0 +1,36 @@
+ c. NATO Briefing for Cleared Personnel. To facilitate potential access to NATO classified
+information, all DoD military and civilian personnel who are briefed on their responsibilities for
+protecting U.S. classified information shall be briefed simultaneously on the requirements for
+protecting NATO information. A written acknowledgement of the individual’s receipt of the
+NATO briefing and responsibilities for safeguarding NATO classified information shall be
+maintained. As stipulated in Reference (u), access to NATO classified information shall also
+
+require a supervisor’s determination of the individual’s need to know and possession of the
+requisite security clearance. Receipt of the NATO briefing shall be verified prior to granting
+access to NATO classified information.
+
+ d. Access By Individuals Outside the Executive Branch. See section 6, Enclosure 2 of
+Volume 3 of this Manual for further guidance regarding access to classified information by
+individuals outside the Executive Branch.
+
+13. PROTECTION REQUIREMENTS. Classified information and CUI shall be protected at all
+times. Volumes 1 through 3 of this Manual provide guidance for the protection of classified
+information while Volume 4 provides guidance for the protection of CUI. Additional guidance
+for special types of information is provided by this section.
+
+ a. Protection of Restricted Data (RD) and Formerly Restricted Data (FRD). Classified
+information, including Critical Nuclear Weapon Design Information (CNWDI), in the custody of
+the Department of Defense marked as RD or FRD in accordance with the Atomic Energy Act of
+1954, as amended, shall be stored, protected, and destroyed as this Manual requires for other
+information of a comparable level of security classification.
+
+ (1) Consult DoDI 5210.02 (Reference (as)) for DoD policy and procedures concerning
+access to and dissemination of RD, FRD, and CNWDI within the Department of Defense.
+Reference (as) also provides guidance on access, distribution, handling, and accountability of
+Sigma information.
+
+ (2) Until DoD public key infrastructure is generally deployed on the Secret Internet
+Protocol Router Network (SIPRNET), the following security measures, deemed sufficient to
+provide the access and dissemination controls required by Reference (as), shall be implemented
+when processing RD and CNWDI on SIPRNET:
+

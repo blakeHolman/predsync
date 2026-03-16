@@ -1,0 +1,60 @@
+ b. U.S. Government documents that include classified FGI shall be marked with
+declassification instructions as specified in this enclosure and Volume 2 of this Manual. If these
+documents are permanently valuable records of the U.S. Government and are subject to the
+25- year automatic declassification rule, the provisions of paragraph 20.a. of this section shall
+apply. A U.S. document marked as described herein cannot be downgraded below the highest
+level of FGI contained in the document or be declassified without the written permission of the
+foreign government or international organization that originated the information. Submit
+recommendations concerning downgrading or declassification to the DoD organization that
+created the document. If that organization supports the recommendation, it shall consult with the
+originating foreign government to determine whether that government consents to
+declassification.
+
+ c. DoD officials may consult directly with foreign governments regarding downgrading or
+declassification of FGI or seek assistance from the Department of State. In either case, DoD
+officials should first consult with the Director, International Security Programs, Defense
+Technology Security Administration, OUSD(P), for assistance and guidance.
+
+21. APPLICATION OF DECLASSIFICATION AND EXTENSION OF CLASSIFICATION
+TO PRESENT AND PREDECESSOR EXECUTIVE ORDERS. The requirements for
+declassifying and extending classification specified by this enclosure apply to information
+classified in accordance with E.O. 12958 (Reference (bl)) and earlier Executive orders, as well as
+to information classified pursuant to Reference (d).
+
+ GLOSSARY
+
+ PART I. ABBREVIATIONS AND ACRONYMS
+
+ ACCM alternative compensatory control measures
+ AO agency official
+
+ B&P bid and proposal
+
+ CI Counterintelligence
+ CNWDI Critical Nuclear Weapon Design Information
+ COMSEC communication security
+ CUI controlled unclassified information
+ CUIO Controlled Unclassified Information Office
+ CUSR Central U.S Registry
+
+ DAA designated approval authority
+ DASD(NM) Deputy Assistant Secretary of Defense for Nuclear Matters
+ DD DoD
+ DIA Defense Intelligence Agency
+ DNI Director of National Intelligence
+ DoDD DoD Directive
+ DoD CIO DoD Chief Information Officer
+ DoDI DoD Instruction
+ DoDM DoD Manual
+ DSS Defense Security Service
+ DUSD(I&S) Deputy Under Secretary of Defense for Intelligence and Security
+
+ E.O. Executive order
+
+ FGI foreign government information
+ FOIA Freedom of Information Act
+ FOUO For Official Use Only
+ FRD Formerly Restricted Data
+
+ GS General Schedule
+

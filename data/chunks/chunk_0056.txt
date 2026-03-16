@@ -1,0 +1,34 @@
+ e. Exclusion of RD and FRD. Documents and other materials marked or containing RD or
+FRD are excluded from the automatic declassification provisions of Reference (d) and this
+Volume until the RD or FRD designation is properly removed. Such information shall remain
+classified or shall be referred for a declassification review to the Department of Energy if RD or
+the DASD(NM) if FRD.
+
+ (1) In accordance with the provisions of section 3161 of Public Law 105-261
+(Reference (bg) (also known as “The Kyl-Lott Amendment”), and its implementing plan, all
+personnel who perform automatic declassification reviews on records that are highly likely to
+contain RD or FRD must be trained and certified by the Department of Energy in the
+identification of unmarked RD and FRD information. DoD Components shall report each
+confirmed inadvertent release of RD or FRD occurring during declassification processes to the
+Department of Energy and provide a copy to OUSD(I&S) Security Directorate.
+
+ (2) When the RD or FRD pertains to defense nuclear information, declassification
+reviews shall be referred to the DASD(NM), who has OCA for defense nuclear information, to
+include joint OCA with the Department of Energy for FRD.
+
+ (3) The Secretary of Energy determines when information concerning foreign nuclear
+programs that was removed from the RD category in order to carry out provisions of
+section 2673 of Reference (af) may be declassified. Unless otherwise determined by the
+appropriate OCA, such information shall be declassified when comparable information
+concerning the U.S. nuclear program is declassified.
+
+ f. Integral File Block. Classified records within an integral file block that are otherwise
+subject to automatic declassification in accordance with this section shall not be automatically
+declassified until December 31 of the year that is 25 years from the date of the MOST RECENT
+record or the date specified by the exemption instruction of the most recent exempted record,
+whichever is later, within the file block. For purposes of automatic declassification, integral file
+blocks shall contain only records dated within 10 years of the oldest record in the file block.
+
+ g. Delays of Automatic Declassification. The following lists the scenarios for which
+automatic declassification may be delayed.
+

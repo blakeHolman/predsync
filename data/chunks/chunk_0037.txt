@@ -1,0 +1,55 @@
+ e. In the case of information security waivers and exceptions involving classified
+information, the DoD Components shall maintain documents regarding approved waivers and
+exceptions, and furnish such documents to other agencies with which they share affected
+classified information or secure facilities, except documentation regarding approved waivers and
+exceptions involving marking of classified information need be shared only upon request.
+
+18. CORRECTIVE ACTIONS AND SANCTIONS
+
+ a. Procedures. Heads of the DoD Components shall establish procedures to ensure that
+prompt and appropriate management action is taken in cases of compromise of classified
+information and unauthorized disclosure of CUI, improper classification or designation of
+information, violation of the provisions of this Manual, and incidents that may put classified
+information and CUI at risk of unauthorized disclosure. Such actions shall focus on correcting or
+eliminating the conditions that caused or brought about the incident.
+
+ b. Sanctions
+
+ (1) DoD military and civilian personnel may be subject to criminal or administrative
+sanctions if they knowingly, willfully, or negligently:
+
+ (a) Disclose classified information to unauthorized persons.
+
+ (b) Classify or continue the classification of information in violation of this Volume.
+
+ (c) Create or continue a SAP contrary to the requirements of Reference (q) and this
+Volume.
+
+ (d) Disclose CUI to unauthorized persons.
+
+ (e) Violate any other provision of this Manual.
+
+ (2) Sanctions include, but are not limited to, warning, reprimand, suspension without
+pay, forfeiture of pay, removal, discharge, loss, or denial of access to classified information
+and/or CUI, and removal of classification authority. Criminal sanctions may also be undertaken
+in accordance with sections 801-940 of title 10, U.S.C. (also known as “The Uniform Code of
+Military Justice” (UCMJ) (Reference (ax)) and other applicable U.S. criminal laws.
+
+ (3) If an individual delegated OCA demonstrates reckless disregard or a pattern of error
+in applying the classification standards of this Volume, the appropriate official shall, as a
+minimum, remove the offending individual’s OCA.
+
+ c. Reporting of Incidents. Security incidents involving classified information shall be
+ reported as required in Enclosure 6 of Volume 3 of this Manual. Incidents involving CUI shall
+be reported as Volume 4 requires.
+
+ APPENDIX TO ENCLOSURE 3
+
+ DOD COMPONENT REQUEST FOR WAIVER OR EXCEPTION
+
+ [CLASSIFICATION]
+
+ COMPONENT SENIOR AGENCY OFFICIAL LETTERHEAD
+
+ [month, day, year]
+

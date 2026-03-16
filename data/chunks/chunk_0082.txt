@@ -1,0 +1,38 @@
+transferred records. Records transferred to agency storage facilities or a Federal records center.
+
+unauthorized disclosure. Communication or physical transfer of classified or controlled
+unclassified information to an unauthorized recipient.
+
+unscheduled records. Records whose final disposition has not been approved by NARA.
+
+U.S. entity
+
+ State, local, or tribal governments.
+
+ State, local, and tribal law enforcement and firefighting entities.
+
+ Public health and medical entities.
+
+ Regional, State, local, and tribal emergency management entities, including State Adjutants
+General and other appropriate public safety entities.
+
+ Private sector entities serving as part of the Nation’s critical infrastructure and/or key
+resources.
+
+violation
+
+ Any knowing, willful, or negligent action that could reasonably be expected to result in an
+unauthorized disclosure of classified information.
+
+ Any knowing, willful, or negligent action to classify or continue the classification of
+information contrary to the requirements of Reference (d), its implementing directives, or this
+Manual.
+
+ Any knowing, willful, or negligent action to create or continue a special access program
+contrary to the requirements of Reference (d), Reference (q), or this Manual.
+
+waiver. An approved temporary or short-term exclusion or deviation from an information
+security standard or requirement, as specified in this Volume.
+
+weapons of mass destruction. Any weapon of mass destruction as defined in section 1801(p) of
+Reference (af).

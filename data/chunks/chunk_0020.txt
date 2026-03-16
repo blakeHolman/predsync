@@ -1,0 +1,37 @@
+ a. Manage and implement the DoD activity’s information security program on behalf of the
+activity head, to whom he or she shall have direct access.
+
+ b. Serve as the principal advisor and representative to the activity head in all matters
+pertaining to this Manual and maintain cognizance of all activity information, personnel,
+
+information systems, physical and industrial security functions to ensure that the information
+security program is coordinated in its execution and inclusive of all requirements in this Manual.
+
+ c. Provide guidance, direction, coordination, and oversight to designated assistant security
+managers, TSCOs, TSCAs, security assistants and, as appropriate, others in security management
+roles as necessary to ensure that all elements of the information security program are being
+administered effectively, efficiently, and in a coordinated manner.
+
+ d. Develop a written activity security instruction that shall include provisions for
+safeguarding classified information during emergency situations and military operations, if
+appropriate.
+
+ e. Ensure that personnel in the activity who perform security duties are kept abreast of
+changes in policies and procedures, and provide assistance in solving problems.
+
+ f. Formulate, coordinate, and conduct the activity security education and training program.
+Organizations with elements that are deployable for contingency operations shall ensure
+information security training, to include appropriate application to information systems, is an
+integral part of pre-deployment training and preparation.
+
+ g. Ensure that threats to security and security incidents pertaining to classified information,
+including foreign government information (FGI), are reported, recorded, coordinated with the
+proper authorities, and, when necessary, investigated and that appropriate action is taken to
+mitigate damage and prevent recurrence. Ensure that incidents involving the loss or compromise
+of classified material (as described in Enclosure 6 of Volume 3 of this Manual) are immediately
+referred to the cognizant investigative authority. In cases where compromise is determined or
+cannot be ruled out, ensure that security reviews and other required assessments are conducted as
+soon as possible. Coordinate with local information assurance officials, but retain responsibility
+for inquiries into incidents involving possible or actual compromise of classified information
+resident in or on IT systems.
+

@@ -1,0 +1,44 @@
+ a. For paper documents and other physical media (e.g., disk drives and removable computer
+media), maintain a system of accountability (e.g., registry) to record the receipt, reproduction,
+transfer, transmission, downgrading, declassification, and destruction of Top Secret information,
+that is not SAP, SCI, and other special types of classified information.
+
+ b. Ensure that inventories of Top Secret information are conducted at least annually or more
+frequently when circumstances warrant.
+
+10. SENIOR INTELLIGENCE OFFICIALS. The senior intelligence officials, including those
+who are heads of elements of the Intelligence Community and those designated according to
+paragraph 6.c of this enclosure, shall:
+
+ a. In accordance with Reference (b):
+
+ (1) Protect intelligence and intelligence sources and methods from unauthorized
+disclosure consistent with the policies of the DNI and, where applicable, the requirements of this
+Manual and Reference (j).
+
+ (2) Administer and oversee, within their respective organizations, those aspects of the
+SCI security programs not delegated to Defense Intelligence Agency (DIA) in accordance with
+Reference (b).
+
+ (3) Develop DoD Component-specific implementation guidance as necessary for the
+protection of SCI.
+
+ b. Cooperate and coordinate with the Component senior agency official as appropriate to
+achieve a harmonized and cohesive information security program within the DoD Component.
+
+ c. Where required by this Manual, provide the USD(I&S) with copies of requests for
+exceptions and waivers of information security policies, security incident reports, and other
+information submitted to the DNI.
+
+ d. Designate, as required by Intelligence Community Directive 703 (Reference (ad)) and
+Reference (j), an activity SSO to be responsible for the day-to-day security management,
+operation, implementation, use, and dissemination of SCI within the activity and, as needed,
+alternate SSO(s). Such designations shall be made for any activity that is accredited for and
+authorized to receive, use, and store SCI and shall be in writing.
+
+ (1) All SCI matters shall be referred to the SSO.
+
+ (2) The SSO may be designated as the activity security manager if the grade
+requirements for the position are met; however, the activity security manager cannot function as
+the SSO unless so designated by the cognizant senior intelligence official.
+

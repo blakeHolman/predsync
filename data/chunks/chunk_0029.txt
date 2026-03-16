@@ -1,0 +1,36 @@
+ (4) NATO Control Point Officer. In accordance with Reference (t), the Secretary of the
+Army operates the Central U.S. Registry (CUSR), the main receiving and dispatching element
+for NATO information in the U.S. Government. The activity NATO Control Point Officer and
+any designated alternate(s) ensure that NATO information is correctly controlled and accounted
+for and that NATO security procedures specified in Reference (u) are followed. The CUSR
+manages the U.S. Registry system of subregistries, communications centers, and control points to
+maintain accountability of NATO classified information and it conducts inspections of the
+associated security processes and procedures. Further information can be found at
+http://www.cusr.army.mil.
+
+ (5) SSO. An SSO is to be designated by the Senior Intelligence Official for any activity
+that is accredited for and authorized to receive, use, and store SCI. The activity SSO is
+responsible, in accordance with References (j) and (ad), for the day-to-day security management,
+operation, implementation, use, and dissemination of SCI within the activity.
+
+ (6) SAP Security Officer. In accordance with the requirements of Reference (q), a SAP
+security officer is to be designated for any activity that is accredited for and authorized to
+receive, use, and store SAP information.
+
+ (7) Information Systems Security Officials. Information systems security officials (e.g.,
+AO, ISSM, and information systems security officer) manage and oversee the DoD IT
+infrastructure (i.e., computer systems and networks). As computers are found everywhere within
+the Department of Defense, close coordination with these officials regarding implementation of
+security measures and procedures is imperative.
+
+ (8) CI and OPSEC. The activity’s information security program must also be closely
+coordinated and aligned with the DoD Component’s CI and OPSEC functions in order to
+maintain the security essential to warfighter and mission success.
+
+7. USE OF CONTRACTORS IN SECURITY ADMINISTRATION. In accordance with
+DoDI 1100.22 (Reference (ao)) and Office of Federal Procurement Policy Letter 11-01
+(Reference (ap)), there are certain critical, closely associated with inherently governmental, or
+otherwise exempt functions and activities that cannot or should not be performed by a contractor.
+The DoD Components shall be careful not to outsource security functions that are inherently
+governmental.
+

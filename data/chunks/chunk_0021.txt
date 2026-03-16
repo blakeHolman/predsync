@@ -1,0 +1,41 @@
+ h. Coordinate the preparation, dissemination, and maintenance of security classification
+guides under the activity’s cognizance as required by Reference (bm).
+
+ i. Maintain liaison with the activity public affairs officer or information security officer, as
+appropriate, and the operations security (OPSEC) officer to ensure that information, including
+press releases and photos, proposed or intended for public release, including via website posting,
+is subject to a security review in accordance with DoDD 5230.09 (Reference (v)), DoDI 5230.29
+(Reference (w)), and DoDI 8550.01 (Reference (x)).
+
+ j. Coordinate with other activity officials regarding security measures for the classification,
+safeguarding, transmission, declassification, and destruction of classified information.
+
+ (1) Coordinate as required with the foreign disclosure officer on all matters governing
+the disclosure of classified information to foreign governments and international organizations in
+accordance with DoDD 5230.11 (Reference (y)).
+
+ (2) Ensure implementation of and compliance with the requirements of this Manual for
+all uses of IT. Coordinate with information systems security personnel (e.g., designated approval
+authorities (DAAs), information assurance managers (IAMs), information system security
+managers) as required for effective management, use, and oversight of classified information in
+electronic form.
+
+ k. Develop security measures and procedures, consistent with DoDD 5230.20
+(Reference (z)), DoDI 5200.08 (Reference (aa)) and other applicable policies, regarding visitors
+who require access to classified information and facilities containing same.
+
+ l. Ensure compliance with the requirements of this Manual when access to classified
+information is provided to industry at activity facilities and locations in connection with a
+classified contract. If the classified information is provided to industry at the contractor’s
+facility, ensure compliance with the provisions of DoDI 5220.22 (Reference (ab)).
+
+ m. Ensure that access to classified information is limited to appropriately cleared personnel
+with a need to know as required by section 4.1 of Reference (d) and section 3.1 of E.O. 12968
+(Reference (ac)).
+
+ n. Maintain liaison with the special security officer (SSO), as appropriate, on issues of
+common concern.
+
+9. TSCO. The TSCO, when designated in accordance with paragraph 8.d. of this enclosure,
+shall:
+

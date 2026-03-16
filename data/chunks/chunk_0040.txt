@@ -1,0 +1,38 @@
+ e. Take appropriate and reasonable steps, including consulting a security classification guide
+or requesting assistance from the appropriate OCA, to resolve doubts or apparent conflicts about
+the classification, level of classification, and duration of classification. In cases of apparent
+conflict between a security classification guide and a classified source document regarding a
+discrete item of information, the instructions in the security classification guide shall take
+precedence. Where required markings are missing or omitted from source documents, consult
+the OCA, appropriate security classification guide, or other classification guidance for
+application of the omitted markings.
+
+4. PROCEDURES FOR DERIVATIVE CLASSIFICATION
+
+ a. Derivative classifiers shall carefully analyze the material they are classifying to determine
+what information it contains or reveals and shall evaluate that information against the
+instructions provided by the classification guidance or the markings on source documents.
+
+ b. Drafters of derivatively classified documents shall portion-mark their drafts and keep
+records of the sources they use, to facilitate derivative classification of the finished product.
+
+ c. When material is derivatively classified based on “multiple sources” (i.e., more than one
+security classification guide, classified source document, or combination thereof), the derivative
+classifier shall compile a list of the sources used. This list shall be included in or attached to the
+document.
+
+ d. Duration of classification for derivatively classified documents shall be determined in
+accordance with section 13 of this enclosure and applied in accordance with Volume 2 of this
+Manual. The instructions shall not be automatically copied from source documents without
+consideration of adjustments that may be required (e.g., due to use of multiple sources, changes
+in policy, changes in classification guidance).
+
+ e. If extracting information from a document or section of a document classified by
+compilation, the derivative classifier shall consult the explanation on the source document to
+determine the appropriate classification. If that does not provide sufficient guidance, the
+derivative classifier shall contact the originator of the source document for assistance.
+
+ f. Infrequently, different sources of classification guidance may specify different
+classification for the same information. When such inconsistencies are encountered, the
+derivative classifier must contact the applicable OCA(s) for resolution of the inconsistency.
+

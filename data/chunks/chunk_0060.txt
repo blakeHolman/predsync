@@ -1,0 +1,41 @@
+ (1) Specific Information. This exemption option permits OCAs to identify and select
+specific information that should be exempted from the automatic declassification provisions.
+The information is described topically in a manner similar to how topics of information are
+described in a security classification guide and must fall within one or more of the exemption
+categories described in paragraph 13.b. of this section.
+
+ (2) Specific Records. This exemption option permits OCAs to identify and select
+specific records for exemption from the automatic declassification provisions. The records must
+be described at the records title level and must contain information that is eligible for exemption
+under one or more of the exemption categories described in paragraph 13.b. of this section.
+
+ (3) File Series. This exemption option allows OCAs to identify an entire file series that
+should be exempted from the automatic declassification provisions. File series shall be
+considered for exemption only after a review or assessment has determined that the series is
+replete with information that almost invariably falls within one or more of the exemption
+categories described in paragraph 13.b. of this section.
+
+ b. Exemption Criteria and Duration
+
+ (1) Exempting 25-Year-Old Information. Information that is 25 years old may be
+exempted (by topic or file series) from automatic declassification for a period not to exceed 50
+years from the date of origin when the release would clearly and demonstrably be expected to:
+
+ (a) Reveal the identity of a confidential human source, a human intelligence source, a
+relationship with an intelligence or security service of a foreign government or international
+organization, or a non-human intelligence source; or impair the effectiveness of an intelligence
+method currently in use, available for use, or under development (exemption 25X1);
+
+ (b) Reveal information that would assist in the development, production, or use of
+weapons of mass destruction (exemption 25X2);
+
+ (c) Reveal information that would impair U.S. cryptologic systems or activities
+(exemption 25X3);
+
+ (d) Reveal information that would impair the application of state-of-the-art
+technology within a U.S. weapon system (exemption 25X4);
+
+ (e) Reveal formally named or numbered U.S. Military war plans that remain in
+effect, or reveal operational or tactical elements of prior plans that are contained in such active
+plans (exemption 25X5);
+

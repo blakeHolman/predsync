@@ -1,0 +1,35 @@
+human intelligence source. People who provide intelligence directly; individuals associated with
+organizations (such as foreign government entities and intelligence services) who willingly share
+intelligence information with the United States; individuals and organizations who facilitate the
+placement or service of technical collection means that could not succeed without their support;
+and foreign citizens who are identified as of an intelligence interest to the United States with a
+reasonable expectation that they will provide information or services in the future. Information
+that may reveal the identities of people upon whom the United States relies for information,
+access to information, or cooperation leading to obtaining information is considered to
+potentially reveal human intelligence sources.
+
+information. Any knowledge that can be communicated or documentary material, regardless of
+its physical form or characteristics, that is owned by, produced by or for, or is under the control
+of the U.S. Government.
+
+information security. The system of policies, procedures, and requirements established in
+accordance with Reference (d) to protect information that, if subjected to unauthorized
+disclosure, could reasonably be expected to cause damage to national security. The term also
+applies to policies, procedures, and requirements established to protect unclassified information
+that may be withheld from release to the public pursuant to Executive order, statute, or
+regulation.
+
+integral file block. A distinct component of a file series that should be maintained as a separate
+unit to ensure the integrity of the records. An integral file block may consist of a set of records
+covering either a specific topic or a range of time, such as a Presidential administration or a
+5-year retirement schedule within a specific file series that is retired from active use as a
+group. For purposes of automatic declassification, integral file blocks shall contain only records
+dated within 10 years of the oldest record in the file block.
+
+integrity. The state that exists when information is unchanged from its source and has not been
+accidentally or intentionally modified, altered, or destroyed.
+
+Intelligence Community. An element or agency of the U.S. Government identified in or
+designated pursuant to section 3(4) of the National Security Act of 1947, as amended, or
+section 3.5(h) of Reference (ah).
+

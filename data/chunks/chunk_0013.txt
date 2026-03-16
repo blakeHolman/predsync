@@ -1,0 +1,50 @@
+ g. Develop and oversee policy, strategy, plans, programs, required capabilities and resources
+for DoD intelligence, CI, security, sensitive activities, and other intelligence and security related
+matters, as necessary to counter insider threats. Serves as the senior official and principal advisor to
+the Secretary of Defense on the DoD Insider Threat program in accordance with DoDD 5205.16
+(Reference (n)), and in this capacity, will:
+
+ (1) Provide oversight of the DoD Insider Threat Program.
+
+ (2) Assign responsibilities to the DoD Components to implement the DoD Insider Threat
+Program.
+
+ (3) Recommend improvements to the Secretary of Defense on DoD insider threat
+activities.
+
+ h. In coordination with the DoD Chief Information Officer (DoD CIO), the Chairman of the
+Joint Chiefs of Staff, the DoD Component heads, and the Director of National Intelligence,
+develop and integrate traditional and cyber security risk-based strategies and phased approaches
+to measurably increase DoD’s security posture against insider threats in accordance with the
+joint USD(I&S), DoD CIO, and Commander, United States Strategic Command Memorandum
+(Reference (o)).
+
+2. UNDER SECRETARY OF DEFENSE FOR POLICY (USD(P)). The USD(P) shall:
+
+ a. Serve as the senior official responsible for administering that portion of the DoD
+Information Security Program pertaining to the National Classified Military Information
+Disclosure Policy, foreign government (including North Atlantic Treaty Organization (NATO))
+information, and security arrangements for international programs in accordance with
+DoDD 5111.1 (Reference (p)) and Reference (a).
+
+ b. Notify the Director, ISOO, of approval of waivers involving Reference (d) and its
+implementing directive, Reference (f).
+
+3. DoD CIO. The DoD CIO shall:
+
+ a. Establish procedures, consistent with References (d) and (f) and this Manual, to ensure
+that information systems, including networks and telecommunications systems, that process,
+disseminate, or store classified information:
+
+ (1) Prevent access by unauthorized persons.
+
+ (2) Assure the integrity of the information.
+
+ (3) Use, to the maximum extent practicable, common information technology (IT)
+standards, protocols, and interfaces, and standardized electronic formats to maximize availability
+and authorized access.
+
+ b. Direct the use of technical means to prevent unauthorized copying of classified data and
+for anomaly detection to recognize unusual patterns of accessing, handling, downloading, and
+removal of digital classified information.
+
