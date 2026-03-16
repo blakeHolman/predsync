@@ -20,6 +20,9 @@ from pathlib import Path
 
 import uvicorn
 
+from fastapi import FastAPI
+from pydantic import BaseModel
+
 import initialize
 from transport import (
     ServerTransport,
@@ -28,6 +31,8 @@ from transport import (
 )
 from pick_best_example import load_rules, update_from_server, bump_version
 import predict_new
+from residuals import get_residual
+from transport import checksum
 
 
 # ----- Constants -----
@@ -109,7 +114,7 @@ async def _on_write_new(chunk_id: str, new_text: str):
     print(f"[server] {chunk_id} written (v{version})")
 
 
-async def _on_rules_updated(rules: list, rules_hash: str, rules_score: float, rules_version: int):
+async def _on_rules_updated(rules: list, rules_hash: str, rules_score: float, rules_version: int, exclude_id: str | None = None):
     """Persist new rules to prompt.json, update predict_new, and push to all clients."""
     update_from_server(
         rules=rules,
@@ -125,13 +130,11 @@ async def _on_rules_updated(rules: list, rules_hash: str, rules_score: float, ru
         rules_hash=rules_hash,
         rules_score=rules_score,
         rules_version=rules_version,
+        exclude_id=exclude_id,
     )
 
 
 # ----- /process_chunk endpoint (for test.py) -----
-
-from fastapi import FastAPI
-from pydantic import BaseModel
 
 _test_app = FastAPI()
 
@@ -172,8 +175,6 @@ async def process_chunk(chunk_id: str, old: str, new: str):
     predicted = predict_new.predict(old)
 
     # Step 2: compute residual
-    from residuals import get_residual
-    from transport import checksum
     residual = get_residual(new, predicted)
     crc      = checksum(new)
     print(f"[server] chunk={chunk_id} residual={len(residual)}B "

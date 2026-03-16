@@ -130,6 +130,7 @@ async def _negotiate_rules():
             rules_score=local["rules_score"],
             rules_version=local["rules_version"],
             rules=local["rules"],
+            client_id=transport.client_id,
         )
 
     elif resp.rules is not None:
@@ -180,6 +181,7 @@ async def process_chunk(chunk_id: str, old: str, new: str):
             rules_score=prompt["rules_score"],
             rules_version=prompt["rules_version"],
             rules=prompt["rules"],
+            client_id=transport.client_id,
         )
 
     elif predict_new.PREFIX_TEXT is None:

@@ -42,6 +42,7 @@ class RegisterResponse(BaseModel):
     rules_version: int
 
 class VerifyRulesRequest(BaseModel):
+    client_id:     str | None = None   # set when client is pushing
     rules_hash:    str
     rules_score:   float
     rules_version: int
@@ -117,11 +118,13 @@ class ClientTransport:
         rules_score:   float,
         rules_version: int,
         rules:         list | None = None,
+        client_id:     str | None = None,
     ) -> RulesResponse:
         """POST /rules with client_id, rules_hash, rules_score, rules_version,
         and optionally rules (if pushing).
         Returns ok and optionally needs_rules (if server wants client to push)."""
         payload = VerifyRulesRequest(
+            client_id=client_id or self.client_id,
             rules_hash=rules_hash,
             rules_score=rules_score,
             rules_version=rules_version,
@@ -399,6 +402,7 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
                         server_transport.rules_hash,
                         server_transport.rules_score,
                         server_transport.rules_version,
+                        req.client_id,
                     )
             return RulesResponse(
                 ok=True,
