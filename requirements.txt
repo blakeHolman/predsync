@@ -1,0 +1,7 @@
+fastapi==0.135.1
+httpx==0.28.1
+huggingface_hub==0.36.2
+pydantic==2.12.5
+torch==2.10.0
+transformers==4.40.2
+uvicorn==0.42.0
