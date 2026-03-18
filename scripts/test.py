@@ -112,6 +112,7 @@ def main():
 
     if args.reset:
         _reset(chunks)
+        return
 
     updated = _load_updated()
 
