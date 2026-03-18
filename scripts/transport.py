@@ -389,7 +389,7 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
           signal needs_rules if client is ahead."""
         if req.rules is not None:
             # Client is pushing — adopt if score is strictly better
-            if req.rules_score > server_transport.rules_score:
+            if req.rules_score > server_transport.rules_score or not server_transport.rules:
                 server_transport.rules         = req.rules
                 server_transport.rules_hash    = hash_rules(req.rules)
                 server_transport.rules_score   = req.rules_score
