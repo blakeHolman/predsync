@@ -59,8 +59,7 @@ def _reset(chunks: list[dict]):
     for chunk in chunks:
         chunk_path = chunks_dir / f"{chunk['chunk_id']}.txt"
         chunk_path.write_text(chunk["old"], encoding="utf-8")
-    print(f"[test] reset — versions.json cleared, {len(chunks)} chunk(s) restored to OLD text")
-
+    print(f"[test] reset — versions.json and prompt.json cleared, {len(chunks)} chunk(s) restored to OLD text")
 
 def _load_chunks() -> list[dict]:
     """Load all records from chunks.jsonl."""
