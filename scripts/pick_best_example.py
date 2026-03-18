@@ -62,9 +62,9 @@ def _save_prompt(data, prompt_path):
     Path(prompt_path).write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 def _hash_rules(rules: list):
-    """SHA-256 of JSON-serialized rules, first 8 hex chars."""
+    """SHA-256 of JSON-serialized rules"""
     content = json.dumps(rules)
-    return hashlib.sha256(content.encode()).hexdigest()[:8]
+    return hashlib.sha256(content.encode()).hexdigest() #full hash
 
 
 def bump_version(chunk_id: str, versions_path: str = VERSIONS_JSON) -> int:
