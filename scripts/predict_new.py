@@ -92,7 +92,7 @@ def parse_rules(llm_output: str) -> list[tuple[str, str]]:
         if m:
             before = m.group(1).strip()
             after  = m.group(2).strip()
-            if before and after:
+            if before and after and before != after:
                 rules.append((before, after))
 
     # Sort longest source phrase first — prevents partial matches
