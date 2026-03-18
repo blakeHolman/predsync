@@ -186,7 +186,7 @@ def check(old, new, tokenizer=None, prompt_path = PROMPT_JSON):
     current_rules = prompt["rules"]
 
     candidate_score = score_example(old, new, tokenizer)
-    needs_extraction = candidate_score > current_score
+    needs_extraction = candidate_score > current_score or not current_rules
 
     if needs_extraction:
         print(f"[pick_best] candidate_score={candidate_score:.4f} > "
