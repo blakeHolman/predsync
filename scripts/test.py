@@ -24,6 +24,7 @@ import httpx
 
 CHUNKS_FILE   = Path("data/chunks.jsonl")
 VERSIONS_FILE = Path("data/versions.json")
+PROMPT_FILE   = Path("data/prompt.json")
 TIMEOUT       = 300  # generous — inference can be slow
 
 
@@ -44,6 +45,15 @@ def _reset(chunks: list[dict]):
     """Reset versions.json and rewrite all chunk .txt files back to OLD text."""
     if VERSIONS_FILE.exists():
         VERSIONS_FILE.write_text(json.dumps({"chunks": {}}, indent=2), encoding="utf-8")
+    
+    if PROMPT_FILE.exists():
+        PROMPT_FILE.write_text(json.dumps({
+            "rules_hash":    None,
+            "rules_score":   0.0,
+            "rules_version": 0,
+            "rules":         []
+        }, indent=2), encoding="utf-8")
+
     chunks_dir = Path("data/chunks")
     chunks_dir.mkdir(parents=True, exist_ok=True)
     for chunk in chunks:
