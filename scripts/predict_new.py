@@ -87,7 +87,8 @@ def parse_rules(llm_output: str) -> list[tuple[str, str]]:
     rules = []
     for line in llm_output.strip().splitlines():
         line = line.strip()
-        # Match: "X" -> "Y"  or  X -> Y  (with or without quotes)
+        if line and line[0].isdigit():
+            line = line.split('.', 1)[-1].strip()
         m = re.match(r'^"?([^"]+)"?\s*->\s*"?([^"]+)"?$', line)
         if m:
             before = m.group(1).strip()
@@ -159,9 +160,10 @@ def init_prefix_kv(prev_old, prev_new):
     sim = difflib.SequenceMatcher(a=test_output, b=prev_new).ratio()
     print(f"[Stage 1] Rule validation similarity: {sim:.3f}")
     if sim < 0.85:
-        print("[Stage 1] Warning: low similarity, rules may be incomplete. "
-              "Falling back to infer_substitutions.")
-        rules = infer_substitutions(prev_old, prev_new)
+        print("[Stage 1] Warning: low similarity, rules may be incomplete.")
+        #print("[Stage 1] Warning: low similarity, rules may be incomplete. "
+        #      "Falling back to infer_substitutions.")
+        #rules = infer_substitutions(prev_old, prev_new)
 
     # Stage 2 prompt is built per-document in predict(), using these rules
     PREFIX_TEXT = rules  # store rules, not a fixed prompt
