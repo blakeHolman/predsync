@@ -106,11 +106,14 @@ def _substitution_coverage_score(old, new):
     Reward exemplars that have both long-form and short-form (acronym) changes.
     High variance in changed span lengths = good exemplar.
     """
-    sm = difflib.SequenceMatcher(a=old, b=new, autojunk=False)
+    old_tokens = old.split()
+    new_tokens = new.split()
+
+    sm = difflib.SequenceMatcher(a=old_tokens, b=new_tokens, autojunk=False)
     changed_spans = [
-        old[i1:i2]
+        " ".join(old_tokens[i1:i2])
         for tag, i1, i2, j1, j2 in sm.get_opcodes()
-        if tag == "replace" and i2 - i1 > 1
+        if tag == "replace" and i2 - i1 >= 1
     ]
     if not changed_spans:
         return 0.0
@@ -119,7 +122,6 @@ def _substitution_coverage_score(old, new):
     avg_len = sum(lengths) / len(lengths)
     diversity = len(set(changed_spans))
 
-    # Variance in lengths rewards having both short (acronyms) and long (full phrases)
     variance = sum((l - avg_len) ** 2 for l in lengths) / len(lengths)
 
     return diversity * (1.0 + variance ** 0.5)
