@@ -12,7 +12,7 @@
 #   network_time_s   -> same as total_time_s (rsync is pure transfer)
 #
 # Usage:
-#   python rsync_benchmark.py [--chunks chunks.jsonl] [--out data/metrics/rsync_TIMESTAMP.json]
+#   python rsync_benchmark.py [--chunks chunks.jsonl] [--out data/rsync_TIMESTAMP.json]
 
 import argparse
 import json
