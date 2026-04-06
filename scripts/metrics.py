@@ -26,6 +26,16 @@ class ChunkMetrics:
     residual_bytes:    int   = 0     # just the /sync residual payload
     total_bytes_sent:  int   = 0     # residual + rules push + /prepare JSON + any other bodies
 
+    # Bytes sent over the wire (outbound only, request bodies)
+    residual_bytes:    int   = 0
+    total_bytes_sent:  int   = 0
+
+    # Rules update (only populated if this chunk triggered extraction)
+    rules_updated:     bool  = False
+    rules_score_before: float = 0.0
+    rules_score_after:  float = 0.0
+    rules_version:     int   = 0
+
 
 # ── Global collector ──────────────────────────────────────────────────────────
 

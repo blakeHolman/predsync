@@ -187,11 +187,16 @@ async def process_chunk(chunk_id: str, old: str, new: str):
 
     if needs_extraction:
         print(f"[client] new best exemplar (score={candidate_score:.4f}) — extracting rules")
+        score_before = load_rules()["rules_score"]
         predict_new.init_prefix_kv(old, new)
         prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)
         listener.rules_hash = prompt["rules_hash"]
 
         if _metrics_enabled:
+            m.rules_updated      = True
+            m.rules_score_before = score_before
+            m.rules_score_after  = candidate_score
+            m.rules_version      = prompt["rules_version"]
             rules_body = json.dumps(VerifyRulesRequest(
                 client_id=transport.client_id,
                 rules_hash=prompt["rules_hash"],
