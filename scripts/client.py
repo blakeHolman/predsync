@@ -54,7 +54,8 @@ _app      = FastAPI()
 _server   = None
  
 _metrics_enabled: bool = False
- 
+_metrics_path: str = "data/metrics.json"
+
 register_client_routes(_app, listener)
  
  
@@ -173,22 +174,23 @@ async def process_chunk(chunk_id: str, old: str, new: str):
     """
     if transport is None:
         raise RuntimeError("[client] not started — call await start() first.")
- 
+
     if _metrics_enabled:
         m = mx.ChunkMetrics(chunk_id=chunk_id)
         t_total = time.perf_counter()
- 
+        t_infer = time.perf_counter()
+
     # Step 1: check exemplar, extract rules if needed
     _rules, needs_extraction, candidate_score = check(
         old, new, tokenizer=predict_new.TOKENIZER
     )
- 
+
     if needs_extraction:
         print(f"[client] new best exemplar (score={candidate_score:.4f}) — extracting rules")
         predict_new.init_prefix_kv(old, new)
         prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)
         listener.rules_hash = prompt["rules_hash"]
- 
+
         if _metrics_enabled:
             rules_body = json.dumps(VerifyRulesRequest(
                 client_id=transport.client_id,
@@ -199,7 +201,7 @@ async def process_chunk(chunk_id: str, old: str, new: str):
             ).model_dump()).encode()
             m.total_bytes_sent += len(rules_body)
             t_net = time.perf_counter()
- 
+
         await transport.verify_rules(
             rules_hash=prompt["rules_hash"],
             rules_score=prompt["rules_score"],
@@ -207,33 +209,30 @@ async def process_chunk(chunk_id: str, old: str, new: str):
             rules=prompt["rules"],
             client_id=transport.client_id,
         )
- 
+
         if _metrics_enabled:
             m.network_time_s += time.perf_counter() - t_net
- 
+
     elif predict_new.PREFIX_TEXT is None:
         raise RuntimeError(
             f"[client] PREFIX_TEXT is None for chunk={chunk_id} — "
             "no rules available and no extraction triggered."
         )
- 
+
     # Step 2: predict
-    if _metrics_enabled:
-        t_infer = time.perf_counter()
- 
     predicted = predict_new.predict(old)
- 
+
     if _metrics_enabled:
         m.inference_time_s = time.perf_counter() - t_infer
- 
+
     # Step 3: compute residual
     residual = get_residual(new, predicted)
     print(f"[client] chunk={chunk_id} residual={len(residual)}B "
           f"(predicted={len(predicted)}B new={len(new)}B)")
- 
+
     # Step 4: prepare + sync via transport
     rules_hash = load_rules()["rules_hash"] or ""
- 
+
     if _metrics_enabled:
         prepare_body = json.dumps(PrepareRequest(
             client_id=transport.client_id,
@@ -242,22 +241,22 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         ).model_dump()).encode()
         m.total_bytes_sent += len(prepare_body)
         t_net = time.perf_counter()
- 
+
     prep = await transport.prepare_sync(chunk_id, rules_hash)
     if not prep.ok:
         raise RuntimeError(f"[client] /prepare rejected for chunk={chunk_id}: {prep.error}")
- 
+
     sync_resp = await transport.sync(chunk_id, residual, new)
     if not sync_resp.ok:
         raise RuntimeError(f"[client] /sync failed for chunk={chunk_id}: {sync_resp.error}")
- 
+
     if _metrics_enabled:
-        m.network_time_s   += time.perf_counter() - t_net
+        m.network_time_s   += time.perf_counter() - t_net - m.inference_time_s
         m.residual_bytes    = len(residual)
         m.total_bytes_sent += len(residual)
         m.total_time_s      = time.perf_counter() - t_total
         mx.record(m)
- 
+
     # Step 5: write locally
     await _on_write_new(chunk_id, new)
     print(f"[client] chunk={chunk_id} committed")

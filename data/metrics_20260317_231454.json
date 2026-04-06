@@ -1,0 +1,580 @@
+{
+  "summary": {
+    "chunks": 71,
+    "total_time_s": 36.782,
+    "inference_time_s": 17.286,
+    "network_time_s": 17.517,
+    "residual_bytes": 104,
+    "total_bytes_sent": 313
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_0046",
+      "total_time_s": 55.67286099299963,
+      "inference_time_s": 21.62084568099999,
+      "network_time_s": 23.332905210998433,
+      "residual_bytes": 63,
+      "total_bytes_sent": 441
+    },
+    {
+      "chunk_id": "chunk_0071",
+      "total_time_s": 9.620882801000334,
+      "inference_time_s": 3.897001079167239e-06,
+      "network_time_s": 0.14305680299912638,
+      "residual_bytes": 110,
+      "total_bytes_sent": 436
+    },
+    {
+      "chunk_id": "chunk_0008",
+      "total_time_s": 10.332705624001392,
+      "inference_time_s": 3.4869990486185998e-06,
+      "network_time_s": 0.1426495839987183,
+      "residual_bytes": 201,
+      "total_bytes_sent": 526
+    },
+    {
+      "chunk_id": "chunk_0000",
+      "total_time_s": 9.896647429999575,
+      "inference_time_s": 2.91600008495152e-06,
+      "network_time_s": 0.1409767249988363,
+      "residual_bytes": 146,
+      "total_bytes_sent": 471
+    },
+    {
+      "chunk_id": "chunk_0075",
+      "total_time_s": 37.625602512000114,
+      "inference_time_s": 14.12657584199951,
+      "network_time_s": 14.490256150998903,
+      "residual_bytes": 16,
+      "total_bytes_sent": 477
+    },
+    {
+      "chunk_id": "chunk_0026",
+      "total_time_s": 47.202112107001085,
+      "inference_time_s": 18.698621978999654,
+      "network_time_s": 19.16006535699853,
+      "residual_bytes": 73,
+      "total_bytes_sent": 749
+    },
+    {
+      "chunk_id": "chunk_0070",
+      "total_time_s": 34.66580247800084,
+      "inference_time_s": 17.11804796300021,
+      "network_time_s": 17.422353025998746,
+      "residual_bytes": 8,
+      "total_bytes_sent": 149
+    },
+    {
+      "chunk_id": "chunk_0019",
+      "total_time_s": 37.918069086001196,
+      "inference_time_s": 18.706522227999812,
+      "network_time_s": 19.066071014000045,
+      "residual_bytes": 154,
+      "total_bytes_sent": 295
+    },
+    {
+      "chunk_id": "chunk_0003",
+      "total_time_s": 29.472132128999874,
+      "inference_time_s": 13.694399591000547,
+      "network_time_s": 13.984093089999078,
+      "residual_bytes": 10,
+      "total_bytes_sent": 151
+    },
+    {
+      "chunk_id": "chunk_0056",
+      "total_time_s": 32.130963231998976,
+      "inference_time_s": 15.899361323001358,
+      "network_time_s": 16.079991849999715,
+      "residual_bytes": 489,
+      "total_bytes_sent": 630
+    },
+    {
+      "chunk_id": "chunk_0006",
+      "total_time_s": 49.295810309000444,
+      "inference_time_s": 23.356943672000853,
+      "network_time_s": 23.778190711000207,
+      "residual_bytes": 36,
+      "total_bytes_sent": 177
+    },
+    {
+      "chunk_id": "chunk_0061",
+      "total_time_s": 39.39432565899915,
+      "inference_time_s": 19.488156240000535,
+      "network_time_s": 19.688756146000742,
+      "residual_bytes": 540,
+      "total_bytes_sent": 681
+    },
+    {
+      "chunk_id": "chunk_0029",
+      "total_time_s": 44.04368192500078,
+      "inference_time_s": 21.75938193699949,
+      "network_time_s": 22.126804543999242,
+      "residual_bytes": 21,
+      "total_bytes_sent": 162
+    },
+    {
+      "chunk_id": "chunk_0064",
+      "total_time_s": 36.28183568200075,
+      "inference_time_s": 17.894459246001134,
+      "network_time_s": 18.198164961999282,
+      "residual_bytes": 67,
+      "total_bytes_sent": 208
+    },
+    {
+      "chunk_id": "chunk_0023",
+      "total_time_s": 33.20141261000026,
+      "inference_time_s": 16.397581586999877,
+      "network_time_s": 16.676961934001156,
+      "residual_bytes": 16,
+      "total_bytes_sent": 157
+    },
+    {
+      "chunk_id": "chunk_0049",
+      "total_time_s": 37.66872522899939,
+      "inference_time_s": 18.63508216899936,
+      "network_time_s": 18.865732758999002,
+      "residual_bytes": 11,
+      "total_bytes_sent": 152
+    },
+    {
+      "chunk_id": "chunk_0035",
+      "total_time_s": 38.73895262000042,
+      "inference_time_s": 19.13537987900054,
+      "network_time_s": 19.347146092000912,
+      "residual_bytes": 200,
+      "total_bytes_sent": 341
+    },
+    {
+      "chunk_id": "chunk_0057",
+      "total_time_s": 25.859281666000243,
+      "inference_time_s": 12.556632540999999,
+      "network_time_s": 13.222295464000126,
+      "residual_bytes": 32,
+      "total_bytes_sent": 173
+    },
+    {
+      "chunk_id": "chunk_0036",
+      "total_time_s": 38.53018507100023,
+      "inference_time_s": 19.28802660400106,
+      "network_time_s": 19.098693112000547,
+      "residual_bytes": 8,
+      "total_bytes_sent": 149
+    },
+    {
+      "chunk_id": "chunk_0059",
+      "total_time_s": 46.5228909389989,
+      "inference_time_s": 22.979218824999407,
+      "network_time_s": 23.21598896099931,
+      "residual_bytes": 180,
+      "total_bytes_sent": 321
+    },
+    {
+      "chunk_id": "chunk_0062",
+      "total_time_s": 36.12477550099902,
+      "inference_time_s": 18.059780916999443,
+      "network_time_s": 17.827966637998543,
+      "residual_bytes": 364,
+      "total_bytes_sent": 505
+    },
+    {
+      "chunk_id": "chunk_0005",
+      "total_time_s": 31.433516113000223,
+      "inference_time_s": 15.303794961000676,
+      "network_time_s": 15.384733919998325,
+      "residual_bytes": 443,
+      "total_bytes_sent": 584
+    },
+    {
+      "chunk_id": "chunk_0041",
+      "total_time_s": 39.210788802000025,
+      "inference_time_s": 19.469598431000122,
+      "network_time_s": 19.50651508699957,
+      "residual_bytes": 151,
+      "total_bytes_sent": 292
+    },
+    {
+      "chunk_id": "chunk_0014",
+      "total_time_s": 38.778999329000726,
+      "inference_time_s": 19.32394467099948,
+      "network_time_s": 19.29585851199954,
+      "residual_bytes": 7,
+      "total_bytes_sent": 148
+    },
+    {
+      "chunk_id": "chunk_0024",
+      "total_time_s": 38.015072965999934,
+      "inference_time_s": 18.51216475000001,
+      "network_time_s": 19.372986792999654,
+      "residual_bytes": 8,
+      "total_bytes_sent": 149
+    },
+    {
+      "chunk_id": "chunk_0013",
+      "total_time_s": 10.020888201999696,
+      "inference_time_s": 3.917000867659226e-06,
+      "network_time_s": 0.14224909200129332,
+      "residual_bytes": 146,
+      "total_bytes_sent": 472
+    },
+    {
+      "chunk_id": "chunk_0077",
+      "total_time_s": 32.03435005100073,
+      "inference_time_s": 14.363031793000118,
+      "network_time_s": 14.557773023001573,
+      "residual_bytes": 468,
+      "total_bytes_sent": 847
+    },
+    {
+      "chunk_id": "chunk_0010",
+      "total_time_s": 81.8738795040008,
+      "inference_time_s": 35.44463858100062,
+      "network_time_s": 35.97786614600045,
+      "residual_bytes": 181,
+      "total_bytes_sent": 1037
+    },
+    {
+      "chunk_id": "chunk_0068",
+      "total_time_s": 35.46879931500007,
+      "inference_time_s": 17.640436460000274,
+      "network_time_s": 17.665356589999647,
+      "residual_bytes": 109,
+      "total_bytes_sent": 250
+    },
+    {
+      "chunk_id": "chunk_0072",
+      "total_time_s": 28.100742171000093,
+      "inference_time_s": 13.794654844999968,
+      "network_time_s": 14.159616262999407,
+      "residual_bytes": 319,
+      "total_bytes_sent": 460
+    },
+    {
+      "chunk_id": "chunk_0055",
+      "total_time_s": 49.30545978600094,
+      "inference_time_s": 19.772999819000688,
+      "network_time_s": 20.042868952998106,
+      "residual_bytes": 62,
+      "total_bytes_sent": 567
+    },
+    {
+      "chunk_id": "chunk_0065",
+      "total_time_s": 43.36386683599994,
+      "inference_time_s": 21.546488161000525,
+      "network_time_s": 21.67203101599989,
+      "residual_bytes": 42,
+      "total_bytes_sent": 183
+    },
+    {
+      "chunk_id": "chunk_0053",
+      "total_time_s": 35.12377445099992,
+      "inference_time_s": 17.49970284600022,
+      "network_time_s": 17.513505205999536,
+      "residual_bytes": 34,
+      "total_bytes_sent": 175
+    },
+    {
+      "chunk_id": "chunk_0066",
+      "total_time_s": 36.069231221001246,
+      "inference_time_s": 17.893320768000194,
+      "network_time_s": 17.946704555000906,
+      "residual_bytes": 99,
+      "total_bytes_sent": 240
+    },
+    {
+      "chunk_id": "chunk_0034",
+      "total_time_s": 39.283803811000325,
+      "inference_time_s": 19.484062821000407,
+      "network_time_s": 19.63003732299876,
+      "residual_bytes": 52,
+      "total_bytes_sent": 193
+    },
+    {
+      "chunk_id": "chunk_0054",
+      "total_time_s": 43.21739099499973,
+      "inference_time_s": 21.391906618000576,
+      "network_time_s": 21.629729047999717,
+      "residual_bytes": 68,
+      "total_bytes_sent": 209
+    },
+    {
+      "chunk_id": "chunk_0021",
+      "total_time_s": 40.38558087800084,
+      "inference_time_s": 20.096109614998568,
+      "network_time_s": 20.05779382699984,
+      "residual_bytes": 60,
+      "total_bytes_sent": 201
+    },
+    {
+      "chunk_id": "chunk_0044",
+      "total_time_s": 44.96441351700014,
+      "inference_time_s": 22.12038118900091,
+      "network_time_s": 22.57559337299972,
+      "residual_bytes": 215,
+      "total_bytes_sent": 356
+    },
+    {
+      "chunk_id": "chunk_0037",
+      "total_time_s": 47.99045302599916,
+      "inference_time_s": 23.725339403999897,
+      "network_time_s": 24.086954729000354,
+      "residual_bytes": 180,
+      "total_bytes_sent": 321
+    },
+    {
+      "chunk_id": "chunk_0011",
+      "total_time_s": 63.413102025000626,
+      "inference_time_s": 31.400541421000526,
+      "network_time_s": 31.832706633998896,
+      "residual_bytes": 107,
+      "total_bytes_sent": 248
+    },
+    {
+      "chunk_id": "chunk_0043",
+      "total_time_s": 9.46566704199904,
+      "inference_time_s": 2.4540004233131185e-06,
+      "network_time_s": 0.14147867600149766,
+      "residual_bytes": 48,
+      "total_bytes_sent": 375
+    },
+    {
+      "chunk_id": "chunk_0031",
+      "total_time_s": 9.517854958001408,
+      "inference_time_s": 2.233999111922458e-06,
+      "network_time_s": 0.14028333900023426,
+      "residual_bytes": 45,
+      "total_bytes_sent": 372
+    },
+    {
+      "chunk_id": "chunk_0002",
+      "total_time_s": 26.91625116799878,
+      "inference_time_s": 9.584435794000456,
+      "network_time_s": 9.842916809999224,
+      "residual_bytes": 20,
+      "total_bytes_sent": 805
+    },
+    {
+      "chunk_id": "chunk_0015",
+      "total_time_s": 38.6849266779991,
+      "inference_time_s": 19.069623344999854,
+      "network_time_s": 19.447078987999703,
+      "residual_bytes": 26,
+      "total_bytes_sent": 167
+    },
+    {
+      "chunk_id": "chunk_0067",
+      "total_time_s": 37.56567368499964,
+      "inference_time_s": 18.56090434500038,
+      "network_time_s": 18.8122659690016,
+      "residual_bytes": 142,
+      "total_bytes_sent": 283
+    },
+    {
+      "chunk_id": "chunk_0051",
+      "total_time_s": 33.91022242899999,
+      "inference_time_s": 16.787289601999873,
+      "network_time_s": 16.977735438998934,
+      "residual_bytes": 11,
+      "total_bytes_sent": 152
+    },
+    {
+      "chunk_id": "chunk_0047",
+      "total_time_s": 36.1020392800001,
+      "inference_time_s": 17.79847036799947,
+      "network_time_s": 18.13965708000069,
+      "residual_bytes": 18,
+      "total_bytes_sent": 159
+    },
+    {
+      "chunk_id": "chunk_0069",
+      "total_time_s": 28.170860258000175,
+      "inference_time_s": 13.903392619000442,
+      "network_time_s": 14.173474401999556,
+      "residual_bytes": 28,
+      "total_bytes_sent": 169
+    },
+    {
+      "chunk_id": "chunk_0081",
+      "total_time_s": 38.33383924199916,
+      "inference_time_s": 18.913531551999768,
+      "network_time_s": 19.229526199998872,
+      "residual_bytes": 48,
+      "total_bytes_sent": 189
+    },
+    {
+      "chunk_id": "chunk_0045",
+      "total_time_s": 32.37813118899976,
+      "inference_time_s": 16.025691691998873,
+      "network_time_s": 16.239523244999873,
+      "residual_bytes": 62,
+      "total_bytes_sent": 203
+    },
+    {
+      "chunk_id": "chunk_0032",
+      "total_time_s": 40.41886191199956,
+      "inference_time_s": 19.97361427100077,
+      "network_time_s": 20.288594834000833,
+      "residual_bytes": 178,
+      "total_bytes_sent": 319
+    },
+    {
+      "chunk_id": "chunk_0001",
+      "total_time_s": 31.417469445999814,
+      "inference_time_s": 15.773401554000884,
+      "network_time_s": 15.562619606000226,
+      "residual_bytes": 38,
+      "total_bytes_sent": 179
+    },
+    {
+      "chunk_id": "chunk_0022",
+      "total_time_s": 38.46545503500056,
+      "inference_time_s": 18.68611387099918,
+      "network_time_s": 19.630009043001337,
+      "residual_bytes": 111,
+      "total_bytes_sent": 252
+    },
+    {
+      "chunk_id": "chunk_0017",
+      "total_time_s": 37.08662007999919,
+      "inference_time_s": 18.465583962999517,
+      "network_time_s": 18.46293524199973,
+      "residual_bytes": 101,
+      "total_bytes_sent": 242
+    },
+    {
+      "chunk_id": "chunk_0025",
+      "total_time_s": 46.52471085400066,
+      "inference_time_s": 18.807805761000054,
+      "network_time_s": 18.647657080999124,
+      "residual_bytes": 108,
+      "total_bytes_sent": 927
+    },
+    {
+      "chunk_id": "chunk_0016",
+      "total_time_s": 33.19656495600066,
+      "inference_time_s": 16.132210124000267,
+      "network_time_s": 16.853916120000576,
+      "residual_bytes": 139,
+      "total_bytes_sent": 280
+    },
+    {
+      "chunk_id": "chunk_0038",
+      "total_time_s": 48.70650198700059,
+      "inference_time_s": 24.129948977999447,
+      "network_time_s": 24.390293788001145,
+      "residual_bytes": 217,
+      "total_bytes_sent": 358
+    },
+    {
+      "chunk_id": "chunk_0033",
+      "total_time_s": 37.254394915999,
+      "inference_time_s": 18.647392144999685,
+      "network_time_s": 18.416691121999975,
+      "residual_bytes": 192,
+      "total_bytes_sent": 333
+    },
+    {
+      "chunk_id": "chunk_0058",
+      "total_time_s": 41.00762563199896,
+      "inference_time_s": 20.24209871899984,
+      "network_time_s": 20.594925367000542,
+      "residual_bytes": 21,
+      "total_bytes_sent": 162
+    },
+    {
+      "chunk_id": "chunk_0012",
+      "total_time_s": 41.90867306900145,
+      "inference_time_s": 20.961782405000122,
+      "network_time_s": 20.80021745600061,
+      "residual_bytes": 50,
+      "total_bytes_sent": 191
+    },
+    {
+      "chunk_id": "chunk_0050",
+      "total_time_s": 41.40418960599891,
+      "inference_time_s": 20.360542012000224,
+      "network_time_s": 20.905443657999058,
+      "residual_bytes": 27,
+      "total_bytes_sent": 168
+    },
+    {
+      "chunk_id": "chunk_0080",
+      "total_time_s": 37.439474913000595,
+      "inference_time_s": 18.67129964800006,
+      "network_time_s": 18.593415821000235,
+      "residual_bytes": 27,
+      "total_bytes_sent": 168
+    },
+    {
+      "chunk_id": "chunk_0018",
+      "total_time_s": 42.53782688700085,
+      "inference_time_s": 21.145161136000752,
+      "network_time_s": 21.244310531999872,
+      "residual_bytes": 7,
+      "total_bytes_sent": 148
+    },
+    {
+      "chunk_id": "chunk_0063",
+      "total_time_s": 33.966818965998755,
+      "inference_time_s": 16.73273298499953,
+      "network_time_s": 17.06217382700015,
+      "residual_bytes": 120,
+      "total_bytes_sent": 261
+    },
+    {
+      "chunk_id": "chunk_0030",
+      "total_time_s": 38.33748096199997,
+      "inference_time_s": 18.951813323999886,
+      "network_time_s": 19.227911423000478,
+      "residual_bytes": 36,
+      "total_bytes_sent": 177
+    },
+    {
+      "chunk_id": "chunk_0079",
+      "total_time_s": 36.44028571600029,
+      "inference_time_s": 18.170011186999545,
+      "network_time_s": 18.133999513000163,
+      "residual_bytes": 8,
+      "total_bytes_sent": 149
+    },
+    {
+      "chunk_id": "chunk_0048",
+      "total_time_s": 43.35469615200054,
+      "inference_time_s": 21.576232796998738,
+      "network_time_s": 21.610257195001395,
+      "residual_bytes": 21,
+      "total_bytes_sent": 162
+    },
+    {
+      "chunk_id": "chunk_0039",
+      "total_time_s": 32.80842776799909,
+      "inference_time_s": 16.299810049998996,
+      "network_time_s": 16.385717525001382,
+      "residual_bytes": 11,
+      "total_bytes_sent": 152
+    },
+    {
+      "chunk_id": "chunk_0042",
+      "total_time_s": 39.07860478600014,
+      "inference_time_s": 19.38466401000005,
+      "network_time_s": 19.467079018999357,
+      "residual_bytes": 53,
+      "total_bytes_sent": 194
+    },
+    {
+      "chunk_id": "chunk_0027",
+      "total_time_s": 36.41062488500029,
+      "inference_time_s": 18.13242359800097,
+      "network_time_s": 18.141581133999352,
+      "residual_bytes": 11,
+      "total_bytes_sent": 152
+    },
+    {
+      "chunk_id": "chunk_0020",
+      "total_time_s": 34.48432255300031,
+      "inference_time_s": 17.24720937100028,
+      "network_time_s": 17.089582190999863,
+      "residual_bytes": 11,
+      "total_bytes_sent": 152
+    }
+  ]
+}
