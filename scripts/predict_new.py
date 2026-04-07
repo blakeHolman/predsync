@@ -99,6 +99,8 @@ def parse_rules(llm_output: str) -> list[tuple[str, str]]:
     # Sort longest source phrase first — prevents partial matches
     # e.g. "Department of Defense" must be applied before "Defense"
     rules.sort(key=lambda x: len(x[0]), reverse=True)
+    seen = set()
+    rules = [r for r in rules if not (r in seen or seen.add(r))]
     return rules
 
 
