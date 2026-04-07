@@ -79,7 +79,7 @@ def generate_client_id(port):
 def hash_rules(rules):
     # sha256 of json.dumps(rules) — no sort_keys, order matters
     serialized = json.dumps(rules)
-    return hashlib.sha256(serialized.encode()).hexdigest()
+    return hashlib.sha256(serialized.encode()).hexdigest()[:16]
 
 def checksum(text):
     # crc32 of utf-8 encoded text, unsigned 32-bit
