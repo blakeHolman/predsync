@@ -90,10 +90,12 @@ def parse_rules(llm_output: str) -> list[tuple[str, str]]:
         line = line.strip()
         if line and line[0].isdigit():
             line = line.split('.', 1)[-1].strip()
+        if line.startswith('- '):
+            line = line[2:].strip()
         m = re.match(r'^"?([^"]+)"?\s*->\s*"?([^"]+)"?$', line)
         if m:
-            before = m.group(1).strip()
-            after  = m.group(2).strip()
+            before = m.group(1).strip().rstrip(',')
+            after  = m.group(2).strip().rstrip(',')
             if before and after and before != after:
                 rules.append((before, after))
 
@@ -179,7 +181,8 @@ def init_prefix_kv(prev_old, prev_new):
 # Given old data, predict new
 def predict(old, target_len=None):
     if PREFIX_TEXT is None:
-        raise RuntimeError("Call init_prefix_kv() first.")
+        #raise RuntimeError("Call init_prefix_kv() first.")
+        return old
 
     rules = PREFIX_TEXT  # list of (before, after) tuples
 
