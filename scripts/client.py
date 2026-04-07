@@ -185,6 +185,9 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         old, new, tokenizer=predict_new.TOKENIZER
     )
 
+    if predict_new.PREFIX_TEXT is None:
+        needs_extraction = True
+
     if needs_extraction:
         print(f"[client] new best exemplar (score={candidate_score:.4f}) — extracting rules")
         score_before = load_rules()["rules_score"]
