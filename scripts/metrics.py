@@ -20,7 +20,7 @@ class ChunkMetrics:
     # Times (seconds)
     total_time_s:      float = 0.0   # wall time for the full process_chunk() call
     inference_time_s:  float = 0.0   # time spent inside predict_new.predict()
-    network_time_s:    float = 0.0   # time spent waiting on HTTP calls
+    sync_time_s:       float = 0.0   # time spent waiting on HTTP calls
 
     # Bytes sent over the wire (outbound only, request bodies)
     residual_bytes:    int   = 0     # just the /sync residual payload
@@ -62,7 +62,7 @@ def save(path: str | Path) -> None:
             "chunks":            n,
             "total_time_s":      round(sum(r.total_time_s      for r in _records) / n, 3),
             "inference_time_s":  round(sum(r.inference_time_s  for r in _records) / n, 3),
-            "network_time_s":    round(sum(r.network_time_s    for r in _records) / n, 3),
+            "sync_time_s":       round(sum(r.sync_time_s    for r in _records) / n, 3),
             "residual_bytes":    sum(r.residual_bytes    for r in _records) // n,
             "total_bytes_sent":  sum(r.total_bytes_sent  for r in _records) // n,
         }
@@ -79,7 +79,7 @@ def save(path: str | Path) -> None:
             f"[metrics] averages — "
             f"total={summary['total_time_s']:.3f}s  "
             f"infer={summary['inference_time_s']:.3f}s  "
-            f"net={summary['network_time_s']:.3f}s  "
+            f"sync={summary['sync_time_s']:.3f}s  "
             f"residual={summary['residual_bytes']:,}B  "
             f"total_sent={summary['total_bytes_sent']:,}B"
         )

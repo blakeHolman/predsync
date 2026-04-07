@@ -216,7 +216,7 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         )
 
         if _metrics_enabled:
-            m.network_time_s += time.perf_counter() - t_net
+            m.sync_time_s += time.perf_counter() - t_net
 
     elif predict_new.PREFIX_TEXT is None:
         raise RuntimeError(
@@ -256,7 +256,7 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         raise RuntimeError(f"[client] /sync failed for chunk={chunk_id}: {sync_resp.error}")
 
     if _metrics_enabled:
-        m.network_time_s   += time.perf_counter() - t_net - m.inference_time_s
+        m.sync_time_s   += time.perf_counter() - t_net
         m.residual_bytes    = len(residual)
         m.total_bytes_sent += len(residual)
         m.total_time_s      = time.perf_counter() - t_total

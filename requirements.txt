@@ -5,4 +5,4 @@ pydantic==2.12.5
 torch==2.10.0
 transformers==4.40.2
 uvicorn==0.42.0
-accelerate
+accelerate>=0.29.0
