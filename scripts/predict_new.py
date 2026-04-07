@@ -57,13 +57,14 @@ def build_rule_extraction_prompt(prev_old: str, prev_new: str) -> str:
         "Given a BEFORE and AFTER document, output ONLY the substitution rules "
         "that transform BEFORE into AFTER.\n"
         "\n"
-        "Requirements:\n"
-        "- For each changed phrase, list ALL case variants that appear in the text\n"
-        "- NEVER output a rule where before and after are identical\n"
-        "- Only include rules evidenced by the diff\n"
+        "Output format:\n"
+        '"old phrase" -> "new phrase"\n'
+        '"another old phrase" -> "another new phrase"\n'
+        "\n"
+        "Rules:\n"
+        "- Only include phrases that actually changed\n"
         "- Order from most specific (longest) to least specific\n"
-        "- Format each rule exactly as: \"BEFORE\" -> \"AFTER\"\n"
-        "- Output nothing else — no explanation, no preamble, no BEFORE/AFTER labels\n"
+        "- Output nothing else\n"
     )
 
     user = (
