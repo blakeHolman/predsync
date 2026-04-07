@@ -221,7 +221,7 @@ async def process_chunk(chunk_id: str, old: str, new: str):
     )
  
     if _metrics_enabled:
-        m.network_time_s = time.perf_counter() - t_net
+        m.sync_time_s = time.perf_counter() - t_net
         m.total_time_s   = time.perf_counter() - t_total
         mx.record(m)
  

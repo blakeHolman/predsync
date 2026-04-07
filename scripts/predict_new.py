@@ -63,13 +63,13 @@ def build_rule_extraction_prompt(prev_old: str, prev_new: str) -> str:
         "- Only include rules evidenced by the diff\n"
         "- Order from most specific (longest) to least specific\n"
         "- Format each rule exactly as: \"BEFORE\" -> \"AFTER\"\n"
-        "- Output nothing else\n"
+        "- Output nothing else — no explanation, no preamble, no BEFORE/AFTER labels\n"
     )
 
     user = (
         f"BEFORE:\n{prev_old}\n\n"
         f"AFTER:\n{prev_new}\n\n"
-        "Extract substitution rules:"
+        "Rules:"
     )
 
     return (
