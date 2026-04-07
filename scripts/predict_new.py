@@ -166,7 +166,10 @@ def init_prefix_kv(prev_old, prev_new):
         #rules = infer_substitutions(prev_old, prev_new)
 
     # Stage 2 prompt is built per-document in predict(), using these rules
-    PREFIX_TEXT = rules  # store rules, not a fixed prompt
+    if rules:
+        PREFIX_TEXT = rules
+    else:
+        print("[Stage 1] No rules extracted — keeping existing PREFIX_TEXT")
 
 
 # Given old data, predict new

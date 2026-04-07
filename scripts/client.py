@@ -189,34 +189,37 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         print(f"[client] new best exemplar (score={candidate_score:.4f}) — extracting rules")
         score_before = load_rules()["rules_score"]
         predict_new.init_prefix_kv(old, new)
-        prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)
-        listener.rules_hash = prompt["rules_hash"]
+        if not predict_new.PREFIX_TEXT:
+            print(f"[client] extraction yielded no rules for chunk={chunk_id} — skipping save")
+        else:
+            prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)
+            listener.rules_hash = prompt["rules_hash"]
 
-        if _metrics_enabled:
-            m.rules_updated      = True
-            m.rules_score_before = score_before
-            m.rules_score_after  = candidate_score
-            m.rules_version      = prompt["rules_version"]
-            rules_body = json.dumps(VerifyRulesRequest(
-                client_id=transport.client_id,
+            if _metrics_enabled:
+                m.rules_updated      = True
+                m.rules_score_before = score_before
+                m.rules_score_after  = candidate_score
+                m.rules_version      = prompt["rules_version"]
+                rules_body = json.dumps(VerifyRulesRequest(
+                    client_id=transport.client_id,
+                    rules_hash=prompt["rules_hash"],
+                    rules_score=prompt["rules_score"],
+                    rules_version=prompt["rules_version"],
+                    rules=prompt["rules"],
+                ).model_dump()).encode()
+                m.total_bytes_sent += len(rules_body)
+                t_net = time.perf_counter()
+
+            await transport.verify_rules(
                 rules_hash=prompt["rules_hash"],
                 rules_score=prompt["rules_score"],
                 rules_version=prompt["rules_version"],
                 rules=prompt["rules"],
-            ).model_dump()).encode()
-            m.total_bytes_sent += len(rules_body)
-            t_net = time.perf_counter()
+                client_id=transport.client_id,
+            )
 
-        await transport.verify_rules(
-            rules_hash=prompt["rules_hash"],
-            rules_score=prompt["rules_score"],
-            rules_version=prompt["rules_version"],
-            rules=prompt["rules"],
-            client_id=transport.client_id,
-        )
-
-        if _metrics_enabled:
-            m.sync_time_s += time.perf_counter() - t_net
+            if _metrics_enabled:
+                m.sync_time_s += time.perf_counter() - t_net
 
     elif predict_new.PREFIX_TEXT is None:
         raise RuntimeError(
