@@ -188,8 +188,8 @@ async def process_chunk(chunk_id: str, old: str, new: str):
     if needs_extraction:
         print(f"[client] new best exemplar (score={candidate_score:.4f}) — extracting rules")
         score_before = load_rules()["rules_score"]
-        predict_new.init_prefix_kv(old, new)
-        if not predict_new.PREFIX_TEXT:
+        extracted_rules = predict_new.init_prefix_kv(old, new)
+        if not extracted_rules:
             print(f"[client] extraction yielded no rules for chunk={chunk_id} — skipping save")
         else:
             prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)

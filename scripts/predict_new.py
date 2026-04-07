@@ -170,6 +170,7 @@ def init_prefix_kv(prev_old, prev_new):
         PREFIX_TEXT = rules
     else:
         print("[Stage 1] No rules extracted — keeping existing PREFIX_TEXT")
+    return rules
 
 
 # Given old data, predict new
