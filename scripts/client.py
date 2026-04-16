@@ -263,6 +263,10 @@ async def process_chunk(chunk_id: str, old: str, new: str):
     if not prep.ok:
         if prep.error == "chunk_busy":
             raise RuntimeError(f"[client] chunk={chunk_id} is already being synced by another client")
+        if prep.error == "rules_mismatch":
+            await _negotiate_rules()
+            rules_hash = load_rules()["rules_hash"] or ""
+            prep = await transport.prepare_sync(chunk_id, rules_hash)
         raise RuntimeError(f"[client] /prepare rejected for chunk={chunk_id}: {prep.error}")
 
     sync_resp = await transport.sync(chunk_id, residual, new, rules_hash)
