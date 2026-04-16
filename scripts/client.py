@@ -52,6 +52,7 @@ transport = None
 listener  = ClientListener()
 _app      = FastAPI()
 _server   = None
+_inference_lock = asyncio.Lock()
  
 _metrics_enabled: bool = False
 _metrics_path: str = "data/metrics.json"
@@ -156,6 +157,8 @@ async def _negotiate_rules():
     if local["rules"]:
         predict_new.PREFIX_TEXT  = local["rules"]
         listener.rules_hash      = local["rules_hash"] or ""
+        listener.rules_score     = local["rules_score"]
+        listener.rules_version   = local["rules_version"]
         print(f"[client] PREFIX_TEXT loaded ({len(local['rules'])} rules)")
     else:
         print("[client] no rules yet — will extract on first chunk")
@@ -197,6 +200,9 @@ async def process_chunk(chunk_id: str, old: str, new: str):
         else:
             prompt = save_rules(predict_new.PREFIX_TEXT, candidate_score)
             listener.rules_hash = prompt["rules_hash"]
+            listener.rules_hash    = prompt["rules_hash"]
+            listener.rules_score   = prompt["rules_score"]
+            listener.rules_version = prompt["rules_version"]
 
             if _metrics_enabled:
                 m.rules_updated      = True
@@ -255,9 +261,11 @@ async def process_chunk(chunk_id: str, old: str, new: str):
 
     prep = await transport.prepare_sync(chunk_id, rules_hash)
     if not prep.ok:
+        if prep.error == "chunk_busy":
+            raise RuntimeError(f"[client] chunk={chunk_id} is already being synced by another client")
         raise RuntimeError(f"[client] /prepare rejected for chunk={chunk_id}: {prep.error}")
 
-    sync_resp = await transport.sync(chunk_id, residual, new)
+    sync_resp = await transport.sync(chunk_id, residual, new, rules_hash)
     if not sync_resp.ok:
         raise RuntimeError(f"[client] /sync failed for chunk={chunk_id}: {sync_resp.error}")
 
@@ -285,6 +293,9 @@ async def _on_rules_updated(rules: list, rules_hash: str, rules_score: float, ru
     )
     predict_new.PREFIX_TEXT  = rules
     listener.rules_hash      = rules_hash
+    listener.rules_hash      = rules_hash
+    listener.rules_score     = rules_score
+    listener.rules_version   = rules_version
     print(f"[client] rules updated v{rules_version} hash={rules_hash} score={rules_score:.4f}")
  
  
@@ -294,9 +305,10 @@ async def _on_prepare(chunk_id: str) -> str:
     if not chunk_path.exists():
         raise FileNotFoundError(f"Chunk not found: {chunk_path}")
     old = chunk_path.read_text(encoding="utf-8")
-    return await asyncio.get_event_loop().run_in_executor(
-        None, predict_new.predict, old
-    )
+    async with _inference_lock:
+        return await asyncio.get_event_loop().run_in_executor(
+            None, predict_new.predict, old
+        )
  
  
 async def _on_write_new(chunk_id: str, new_text: str):

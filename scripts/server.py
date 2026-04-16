@@ -48,6 +48,7 @@ CHUNKS_DIR = Path("data/chunks")
  
 server_transport  = None
 _server           = None
+_inference_lock   = asyncio.Lock()
  
 _metrics_enabled: bool = False
 _metrics_path:    str  = "data/metrics.json"
@@ -107,9 +108,10 @@ async def _on_prepare(chunk_id: str) -> str:
     if not chunk_path.exists():
         raise FileNotFoundError(f"Chunk not found: {chunk_path}")
     old = chunk_path.read_text(encoding="utf-8")
-    return await asyncio.get_event_loop().run_in_executor(
-        None, predict_new.predict, old
-    )
+    async with _inference_lock:
+        return await asyncio.get_event_loop().run_in_executor(
+            None, predict_new.predict, old
+        )
  
  
 async def _on_write_new(chunk_id: str, new_text: str):

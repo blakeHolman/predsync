@@ -27,6 +27,7 @@ TIMEOUT             = 120
 ERR_RULES_MISMATCH  = "rules_mismatch"
 ERR_CHECKSUM_FAIL   = "checksum_fail"
 ERR_CHUNK_NOT_FOUND = "chunk_not_found"
+ERR_CHUNK_BUSY      = "chunk_busy"
 
 
 # ----- FastAPI App -----
@@ -161,6 +162,7 @@ class ClientTransport:
         chunk_id:   str,
         residual:   bytes,
         new_text:   str,
+        rules_hash: str,
     ) -> SyncResponse:
         """POST /sync with residual bytes in the body and checksum of new_text in headers.
 
@@ -182,6 +184,7 @@ class ClientTransport:
                     "x-client-id":  self.client_id,
                     "x-chunk-id":   chunk_id,
                     "x-checksum":   str(crc),
+                    "x-rules-hash": rules_hash,
                     "Content-Type": "application/octet-stream",
                 },
             )
@@ -198,6 +201,8 @@ class ClientListener:
     """
     def __init__(self, rules_hash: str = ""):
         self.rules_hash = rules_hash
+        self.rules_score:   float = 0.0
+        self.rules_version: int   = 0
 
         # Pending inference futures: chunk_id -> asyncio.Future[str]
         # Keyed on chunk_id only — only one server ever pushes to this client
@@ -240,6 +245,10 @@ class ServerTransport:
         self.on_write_new:     Callable[[str, str], Awaitable[None]] | None = None
         # on_rules_updated(rules, rules_hash, rules_score, rules_version) -> None
         self.on_rules_updated: Callable[[list, str, float, int], Awaitable[None]] | None = None
+
+        # Used for concurrent write locking
+        self._pending: dict[tuple[str, str], asyncio.Future] = {}
+        self._active_chunks: set[str] = set()
 
         # Register endpoints
         register_routes(self.app, self)
@@ -440,6 +449,11 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
 
         if server_transport.on_prepare is None:
             return PrepareResponse(ok=False, error=ERR_CHUNK_NOT_FOUND)
+        
+        if req.chunk_id in server_transport._active_chunks:
+            return PrepareResponse(ok=False, error=ERR_CHUNK_BUSY)
+        
+        server_transport._active_chunks.add(req.chunk_id)
 
         # Create a Future that /sync will await, keyed on (chunk_id, client_id)
         # to prevent collisions when multiple clients sync the same chunk
@@ -468,6 +482,7 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
         x_client_id:   str = Header(...),
         x_chunk_id:    str = Header(...),
         x_checksum:    int = Header(...),
+        x_rules_hash: str = Header(...),
     ) -> SyncResponse:
         """Receive residual bytes from client, reconstruct new_text, verify checksum, write, fan-out.
 
@@ -480,6 +495,10 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
         """
         # Read raw residual bytes from body
         residual = await request.body()
+
+        if x_rules_hash != server_transport.rules_hash:
+            server_transport._active_chunks.discard(x_chunk_id)
+            return SyncResponse(ok=False, error=ERR_RULES_MISMATCH)
 
         # Wait for background inference from /prepare to finish
         future = server_transport._pending.get((x_chunk_id, x_client_id))
@@ -496,6 +515,7 @@ def register_routes(app: FastAPI, server_transport: ServerTransport) -> None:
             return SyncResponse(ok=False, error=ERR_CHUNK_NOT_FOUND)
         finally:
             server_transport._pending.pop((x_chunk_id, x_client_id), None)
+            server_transport._active_chunks.discard(x_chunk_id)
 
         # Reconstruct new_text from server's own predicted + client's residual delta
         new_text = apply_residual(predicted, residual).decode("utf-8")
@@ -535,8 +555,10 @@ def register_client_routes(app: FastAPI, listener: ClientListener) -> None:
     @app.post("/rules", response_model=RulesResponse)
     async def rules(req: VerifyRulesRequest) -> RulesResponse:
         """Server pushes better rules to this client mid-session."""
-        if req.rules is not None and req.rules_score > 0.0:
+        if req.rules is not None and req.rules_score > listener.rules_score:
             listener.rules_hash = hash_rules(req.rules)
+            listener.rules_score   = req.rules_score
+            listener.rules_version = req.rules_version
             print(f"[client rules] adopted server rules v{req.rules_version} "
                   f"score={req.rules_score:.4f}")
             if listener.on_rules_updated is not None:
